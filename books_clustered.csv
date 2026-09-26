@@ -1,0 +1,1001 @@
+title,price,rating,availability,url,price_clean,rating_numeric,price_category,rating_category,cluster,cluster_name
+A Light in the Attic,Â£51.77,Three,in stock,a-light-in-the-attic_1000/index.html,51.77,3,High,Average,0,Premium Highly-Rated
+Tipping the Velvet,Â£53.74,One,in stock,tipping-the-velvet_999/index.html,53.74,1,High,Low Rated,1,Premium Low-Rated
+Soumission,Â£50.10,One,in stock,soumission_998/index.html,50.1,1,High,Low Rated,1,Premium Low-Rated
+Sharp Objects,Â£47.82,Four,in stock,sharp-objects_997/index.html,47.82,4,High,Highly Rated,0,Premium Highly-Rated
+Sapiens: A Brief History of Humankind,Â£54.23,Five,in stock,sapiens-a-brief-history-of-humankind_996/index.html,54.23,5,High,Highly Rated,0,Premium Highly-Rated
+The Requiem Red,Â£22.65,One,in stock,the-requiem-red_995/index.html,22.65,1,Medium,Low Rated,2,Budget Low-Rated
+The Dirty Little Secrets of Getting Your Dream Job,Â£33.34,Four,in stock,the-dirty-little-secrets-of-getting-your-dream-job_994/index.html,33.34,4,Medium,Highly Rated,3,Budget Highly-Rated
+"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",Â£17.93,Three,in stock,the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html,17.93,3,Low,Average,3,Budget Highly-Rated
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Â£22.60,Four,in stock,the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html,22.6,4,Medium,Highly Rated,3,Budget Highly-Rated
+The Black Maria,Â£52.15,One,in stock,the-black-maria_991/index.html,52.15,1,High,Low Rated,1,Premium Low-Rated
+"Starving Hearts (Triangular Trade Trilogy, #1)",Â£13.99,Two,in stock,starving-hearts-triangular-trade-trilogy-1_990/index.html,13.99,2,Low,Low Rated,2,Budget Low-Rated
+Shakespeare's Sonnets,Â£20.66,Four,in stock,shakespeares-sonnets_989/index.html,20.66,4,Medium,Highly Rated,3,Budget Highly-Rated
+Set Me Free,Â£17.46,Five,in stock,set-me-free_988/index.html,17.46,5,Low,Highly Rated,3,Budget Highly-Rated
+Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Â£52.29,Five,in stock,scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html,52.29,5,High,Highly Rated,0,Premium Highly-Rated
+Rip it Up and Start Again,Â£35.02,Five,in stock,rip-it-up-and-start-again_986/index.html,35.02,5,Medium,Highly Rated,0,Premium Highly-Rated
+"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Â£57.25,Three,in stock,our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html,57.25,3,High,Average,0,Premium Highly-Rated
+Olio,Â£23.88,One,in stock,olio_984/index.html,23.88,1,Medium,Low Rated,2,Budget Low-Rated
+Mesaerion: The Best Science Fiction Stories 1800-1849,Â£37.59,One,in stock,mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html,37.59,1,Medium,Low Rated,1,Premium Low-Rated
+Libertarianism for Beginners,Â£51.33,Two,in stock,libertarianism-for-beginners_982/index.html,51.33,2,High,Low Rated,1,Premium Low-Rated
+It's Only the Himalayas,Â£45.17,Two,in stock,its-only-the-himalayas_981/index.html,45.17,2,High,Low Rated,1,Premium Low-Rated
+In Her Wake,Â£12.84,One,in stock,in-her-wake_980/index.html,12.84,1,Low,Low Rated,2,Budget Low-Rated
+How Music Works,Â£37.32,Two,in stock,how-music-works_979/index.html,37.32,2,Medium,Low Rated,1,Premium Low-Rated
+"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",Â£30.52,Three,in stock,foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html,30.52,3,Medium,Average,3,Budget Highly-Rated
+Chase Me (Paris Nights #2),Â£25.27,Five,in stock,chase-me-paris-nights-2_977/index.html,25.27,5,Medium,Highly Rated,3,Budget Highly-Rated
+Black Dust,Â£34.53,Five,in stock,black-dust_976/index.html,34.53,5,Medium,Highly Rated,0,Premium Highly-Rated
+Birdsong: A Story in Pictures,Â£54.64,Three,in stock,birdsong-a-story-in-pictures_975/index.html,54.64,3,High,Average,0,Premium Highly-Rated
+America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,Â£22.50,Three,in stock,americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html,22.5,3,Medium,Average,3,Budget Highly-Rated
+Aladdin and His Wonderful Lamp,Â£53.13,Three,in stock,aladdin-and-his-wonderful-lamp_973/index.html,53.13,3,High,Average,0,Premium Highly-Rated
+Worlds Elsewhere: Journeys Around Shakespeareâs Globe,Â£40.30,Five,in stock,worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html,40.3,5,High,Highly Rated,0,Premium Highly-Rated
+Wall and Piece,Â£44.18,Four,in stock,wall-and-piece_971/index.html,44.18,4,High,Highly Rated,0,Premium Highly-Rated
+The Four Agreements: A Practical Guide to Personal Freedom,Â£17.66,Five,in stock,the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html,17.66,5,Low,Highly Rated,3,Budget Highly-Rated
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Â£31.05,Three,in stock,the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html,31.05,3,Medium,Average,3,Budget Highly-Rated
+The Elephant Tree,Â£23.82,Five,in stock,the-elephant-tree_968/index.html,23.82,5,Medium,Highly Rated,3,Budget Highly-Rated
+The Bear and the Piano,Â£36.89,One,in stock,the-bear-and-the-piano_967/index.html,36.89,1,Medium,Low Rated,1,Premium Low-Rated
+Sophie's World,Â£15.94,Five,in stock,sophies-world_966/index.html,15.94,5,Low,Highly Rated,3,Budget Highly-Rated
+Penny Maybe,Â£33.29,Three,in stock,penny-maybe_965/index.html,33.29,3,Medium,Average,3,Budget Highly-Rated
+Maude (1883-1993):She Grew Up with the country,Â£18.02,Two,in stock,maude-1883-1993she-grew-up-with-the-country_964/index.html,18.02,2,Low,Low Rated,2,Budget Low-Rated
+"In a Dark, Dark Wood",Â£19.63,One,in stock,in-a-dark-dark-wood_963/index.html,19.63,1,Low,Low Rated,2,Budget Low-Rated
+Behind Closed Doors,Â£52.22,Four,in stock,behind-closed-doors_962/index.html,52.22,4,High,Highly Rated,0,Premium Highly-Rated
+You can't bury them all: Poems,Â£33.63,Two,in stock,you-cant-bury-them-all-poems_961/index.html,33.63,2,Medium,Low Rated,2,Budget Low-Rated
+Slow States of Collapse: Poems,Â£57.31,Three,in stock,slow-states-of-collapse-poems_960/index.html,57.31,3,High,Average,0,Premium Highly-Rated
+Reasons to Stay Alive,Â£26.41,Two,in stock,reasons-to-stay-alive_959/index.html,26.41,2,Medium,Low Rated,2,Budget Low-Rated
+Private Paris (Private #10),Â£47.61,Five,in stock,private-paris-private-10_958/index.html,47.61,5,High,Highly Rated,0,Premium Highly-Rated
+#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,Â£23.11,Five,in stock,higherselfie-wake-up-your-life-free-your-soul-find-your-tribe_957/index.html,23.11,5,Medium,Highly Rated,3,Budget Highly-Rated
+Without Borders (Wanderlove #1),Â£45.07,Two,in stock,without-borders-wanderlove-1_956/index.html,45.07,2,High,Low Rated,1,Premium Low-Rated
+When We Collided,Â£31.77,One,in stock,when-we-collided_955/index.html,31.77,1,Medium,Low Rated,2,Budget Low-Rated
+"We Love You, Charlie Freeman",Â£50.27,Five,in stock,we-love-you-charlie-freeman_954/index.html,50.27,5,High,Highly Rated,0,Premium Highly-Rated
+Untitled Collection: Sabbath Poems 2014,Â£14.27,Four,in stock,untitled-collection-sabbath-poems-2014_953/index.html,14.27,4,Low,Highly Rated,3,Budget Highly-Rated
+"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",Â£44.18,Four,in stock,unseen-city-the-majesty-of-pigeons-the-discreet-charm-of-snails-other-wonders-of-the-urban-wilderness_952/index.html,44.18,4,High,Highly Rated,0,Premium Highly-Rated
+Unicorn Tracks,Â£18.78,Three,in stock,unicorn-tracks_951/index.html,18.78,3,Low,Average,3,Budget Highly-Rated
+"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",Â£25.52,One,in stock,unbound-how-eight-technologies-made-us-human-transformed-society-and-brought-our-world-to-the-brink_950/index.html,25.52,1,Medium,Low Rated,2,Budget Low-Rated
+Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),Â£16.28,One,in stock,tsubasa-world-chronicle-2-tsubasa-world-chronicle-2_949/index.html,16.28,1,Low,Low Rated,2,Budget Low-Rated
+Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,Â£31.12,Three,in stock,throwing-rocks-at-the-google-bus-how-growth-became-the-enemy-of-prosperity_948/index.html,31.12,3,Medium,Average,3,Budget Highly-Rated
+This One Summer,Â£19.49,Four,in stock,this-one-summer_947/index.html,19.49,4,Low,Highly Rated,3,Budget Highly-Rated
+Thirst,Â£17.27,Five,in stock,thirst_946/index.html,17.27,5,Low,Highly Rated,3,Budget Highly-Rated
+The Torch Is Passed: A Harding Family Story,Â£19.09,One,in stock,the-torch-is-passed-a-harding-family-story_945/index.html,19.09,1,Low,Low Rated,2,Budget Low-Rated
+The Secret of Dreadwillow Carse,Â£56.13,One,in stock,the-secret-of-dreadwillow-carse_944/index.html,56.13,1,High,Low Rated,1,Premium Low-Rated
+"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",Â£56.41,One,in stock,the-pioneer-woman-cooks-dinnertime-comfort-classics-freezer-food-16-minute-meals-and-other-delicious-ways-to-solve-supper_943/index.html,56.41,1,High,Low Rated,1,Premium Low-Rated
+The Past Never Ends,Â£56.50,Four,in stock,the-past-never-ends_942/index.html,56.5,4,High,Highly Rated,0,Premium Highly-Rated
+The Natural History of Us (The Fine Art of Pretending #2),Â£45.22,Three,in stock,the-natural-history-of-us-the-fine-art-of-pretending-2_941/index.html,45.22,3,High,Average,0,Premium Highly-Rated
+The Nameless City (The Nameless City #1),Â£38.16,Four,in stock,the-nameless-city-the-nameless-city-1_940/index.html,38.16,4,Medium,Highly Rated,0,Premium Highly-Rated
+The Murder That Never Was (Forensic Instincts #5),Â£54.11,Three,in stock,the-murder-that-never-was-forensic-instincts-5_939/index.html,54.11,3,High,Average,0,Premium Highly-Rated
+The Most Perfect Thing: Inside (and Outside) a Bird's Egg,Â£42.96,Four,in stock,the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html,42.96,4,High,Highly Rated,0,Premium Highly-Rated
+"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",Â£23.89,Four,in stock,the-mindfulness-and-acceptance-workbook-for-anxiety-a-guide-to-breaking-free-from-anxiety-phobias-and-worry-using-acceptance-and-commitment-therapy_937/index.html,23.89,4,Medium,Highly Rated,3,Budget Highly-Rated
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Â£16.77,Three,in stock,the-life-changing-magic-of-tidying-up-the-japanese-art-of-decluttering-and-organizing_936/index.html,16.77,3,Low,Average,3,Budget Highly-Rated
+"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",Â£20.59,Five,in stock,the-inefficiency-assassin-time-management-tactics-for-working-smarter-not-longer_935/index.html,20.59,5,Medium,Highly Rated,3,Budget Highly-Rated
+The Gutsy Girl: Escapades for Your Life of Epic Adventure,Â£37.13,One,in stock,the-gutsy-girl-escapades-for-your-life-of-epic-adventure_934/index.html,37.13,1,Medium,Low Rated,1,Premium Low-Rated
+The Electric Pencil: Drawings from Inside State Hospital No. 3,Â£56.06,One,in stock,the-electric-pencil-drawings-from-inside-state-hospital-no-3_933/index.html,56.06,1,High,Low Rated,1,Premium Low-Rated
+The Death of Humanity: and the Case for Life,Â£58.11,Four,in stock,the-death-of-humanity-and-the-case-for-life_932/index.html,58.11,4,High,Highly Rated,0,Premium Highly-Rated
+"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",Â£49.05,Three,in stock,the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html,49.05,3,High,Average,0,Premium Highly-Rated
+The Art Forger,Â£40.76,Three,in stock,the-art-forger_930/index.html,40.76,3,High,Average,0,Premium Highly-Rated
+The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,Â£19.73,One,in stock,the-age-of-genius-the-seventeenth-century-and-the-birth-of-the-modern-mind_929/index.html,19.73,1,Low,Low Rated,2,Budget Low-Rated
+The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,Â£32.24,Five,in stock,the-activists-tao-te-ching-ancient-advice-for-a-modern-revolution_928/index.html,32.24,5,Medium,Highly Rated,3,Budget Highly-Rated
+Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,Â£41.83,Four,in stock,spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html,41.83,4,High,Highly Rated,0,Premium Highly-Rated
+Soul Reader,Â£39.58,Two,in stock,soul-reader_926/index.html,39.58,2,Medium,Low Rated,1,Premium Low-Rated
+Security,Â£39.25,Two,in stock,security_925/index.html,39.25,2,Medium,Low Rated,1,Premium Low-Rated
+"Saga, Volume 6 (Saga (Collected Editions) #6)",Â£25.02,Three,in stock,saga-volume-6-saga-collected-editions-6_924/index.html,25.02,3,Medium,Average,3,Budget Highly-Rated
+"Saga, Volume 5 (Saga (Collected Editions) #5)",Â£51.04,Two,in stock,saga-volume-5-saga-collected-editions-5_923/index.html,51.04,2,High,Low Rated,1,Premium Low-Rated
+Reskilling America: Learning to Labor in the Twenty-First Century,Â£19.83,Two,in stock,reskilling-america-learning-to-labor-in-the-twenty-first-century_922/index.html,19.83,2,Low,Low Rated,2,Budget Low-Rated
+"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",Â£50.40,Three,in stock,rat-queens-vol-3-demons-rat-queens-collected-editions-11-15_921/index.html,50.4,3,High,Average,0,Premium Highly-Rated
+"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",Â£13.61,Five,in stock,princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html,13.61,5,Low,Highly Rated,3,Budget Highly-Rated
+Princess Between Worlds (Wide-Awake Princess #5),Â£13.34,Five,in stock,princess-between-worlds-wide-awake-princess-5_919/index.html,13.34,5,Low,Highly Rated,3,Budget Highly-Rated
+"Pop Gun War, Volume 1: Gift",Â£18.97,One,in stock,pop-gun-war-volume-1-gift_918/index.html,18.97,1,Low,Low Rated,2,Budget Low-Rated
+"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",Â£36.28,Two,in stock,political-suicide-missteps-peccadilloes-bad-calls-backroom-hijinx-sordid-pasts-rotten-breaks-and-just-plain-dumb-mistakes-in-the-annals-of-american-politics_917/index.html,36.28,2,Medium,Low Rated,1,Premium Low-Rated
+Patience,Â£10.16,Three,in stock,patience_916/index.html,10.16,3,Low,Average,3,Budget Highly-Rated
+"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",Â£15.44,Four,in stock,outcast-vol-1-a-darkness-surrounds-him-outcast-1_915/index.html,15.44,4,Low,Highly Rated,3,Budget Highly-Rated
+orange: The Complete Collection 1 (orange: The Complete Collection #1),Â£48.41,One,in stock,orange-the-complete-collection-1-orange-the-complete-collection-1_914/index.html,48.41,1,High,Low Rated,1,Premium Low-Rated
+Online Marketing for Busy Authors: A Step-By-Step Guide,Â£46.35,One,in stock,online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html,46.35,1,High,Low Rated,1,Premium Low-Rated
+On a Midnight Clear,Â£14.07,Three,in stock,on-a-midnight-clear_912/index.html,14.07,3,Low,Average,3,Budget Highly-Rated
+Obsidian (Lux #1),Â£14.86,Two,in stock,obsidian-lux-1_911/index.html,14.86,2,Low,Low Rated,2,Budget Low-Rated
+My Paris Kitchen: Recipes and Stories,Â£33.37,Two,in stock,my-paris-kitchen-recipes-and-stories_910/index.html,33.37,2,Medium,Low Rated,2,Budget Low-Rated
+Masks and Shadows,Â£56.40,Two,in stock,masks-and-shadows_909/index.html,56.4,2,High,Low Rated,1,Premium Low-Rated
+"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",Â£14.02,Four,in stock,mama-tried-traditional-italian-cooking-for-the-screwed-crude-vegan-and-tattooed_908/index.html,14.02,4,Low,Highly Rated,3,Budget Highly-Rated
+"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",Â£46.91,Two,in stock,lumberjanes-vol-2-friendship-to-the-max-lumberjanes-5-8_907/index.html,46.91,2,High,Low Rated,1,Premium Low-Rated
+"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",Â£45.61,Three,in stock,lumberjanes-vol-1-beware-the-kitten-holy-lumberjanes-1-4_906/index.html,45.61,3,High,Average,0,Premium Highly-Rated
+Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),Â£19.92,Two,in stock,lumberjanes-vol-3-a-terrible-plan-lumberjanes-9-12_905/index.html,19.92,2,Low,Low Rated,2,Budget Low-Rated
+"Layered: Baking, Building, and Styling Spectacular Cakes",Â£40.11,One,in stock,layered-baking-building-and-styling-spectacular-cakes_904/index.html,40.11,1,High,Low Rated,1,Premium Low-Rated
+Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),Â£53.90,Two,in stock,judo-seven-steps-to-black-belt-an-introductory-guide-for-beginners_903/index.html,53.9,2,High,Low Rated,1,Premium Low-Rated
+Join,Â£35.67,Five,in stock,join_902/index.html,35.67,5,Medium,Highly Rated,0,Premium Highly-Rated
+In the Country We Love: My Family Divided,Â£22.00,Four,in stock,in-the-country-we-love-my-family-divided_901/index.html,22.0,4,Medium,Highly Rated,3,Budget Highly-Rated
+Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,Â£57.36,Five,in stock,immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html,57.36,5,High,Highly Rated,0,Premium Highly-Rated
+"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",Â£29.17,Two,in stock,i-hate-fairyland-vol-1-madly-ever-after-i-hate-fairyland-compilations-1-5_899/index.html,29.17,2,Medium,Low Rated,2,Budget Low-Rated
+I am a Hero Omnibus Volume 1,Â£54.63,Three,in stock,i-am-a-hero-omnibus-volume-1_898/index.html,54.63,3,High,Average,0,Premium Highly-Rated
+How to Be Miserable: 40 Strategies You Already Use,Â£46.03,One,in stock,how-to-be-miserable-40-strategies-you-already-use_897/index.html,46.03,1,High,Low Rated,1,Premium Low-Rated
+Her Backup Boyfriend (The Sorensen Family #1),Â£33.97,One,in stock,her-backup-boyfriend-the-sorensen-family-1_896/index.html,33.97,1,Medium,Low Rated,1,Premium Low-Rated
+"Giant Days, Vol. 2 (Giant Days #5-8)",Â£22.11,Two,in stock,giant-days-vol-2-giant-days-5-8_895/index.html,22.11,2,Medium,Low Rated,2,Budget Low-Rated
+Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,Â£29.69,Three,in stock,forever-and-forever-the-courtship-of-henry-longfellow-and-fanny-appleton_894/index.html,29.69,3,Medium,Average,3,Budget Highly-Rated
+First and First (Five Boroughs #3),Â£15.97,Four,in stock,first-and-first-five-boroughs-3_893/index.html,15.97,4,Low,Highly Rated,3,Budget Highly-Rated
+Fifty Shades Darker (Fifty Shades #2),Â£21.96,One,in stock,fifty-shades-darker-fifty-shades-2_892/index.html,21.96,1,Medium,Low Rated,2,Budget Low-Rated
+Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,Â£54.35,Two,in stock,everydata-the-misinformation-hidden-in-the-little-data-you-consume-every-day_891/index.html,54.35,2,High,Low Rated,1,Premium Low-Rated
+"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",Â£37.97,Two,in stock,dont-be-a-jerk-and-other-practical-advice-from-dogen-japans-greatest-zen-master_890/index.html,37.97,2,Medium,Low Rated,1,Premium Low-Rated
+Danganronpa Volume 1,Â£51.99,Four,in stock,danganronpa-volume-1_889/index.html,51.99,4,High,Highly Rated,0,Premium Highly-Rated
+Crown of Midnight (Throne of Glass #2),Â£43.29,Three,in stock,crown-of-midnight-throne-of-glass-2_888/index.html,43.29,3,High,Average,0,Premium Highly-Rated
+"Codename Baboushka, Volume 1: The Conclave of Death",Â£36.72,Four,in stock,codename-baboushka-volume-1-the-conclave-of-death_887/index.html,36.72,4,Medium,Highly Rated,0,Premium Highly-Rated
+Camp Midnight,Â£17.08,Four,in stock,camp-midnight_886/index.html,17.08,4,Low,Highly Rated,3,Budget Highly-Rated
+Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,Â£29.14,Five,in stock,call-the-nurse-true-stories-of-a-country-nurse-on-a-scottish-isle_885/index.html,29.14,5,Medium,Highly Rated,3,Budget Highly-Rated
+Burning,Â£28.81,Three,in stock,burning_884/index.html,28.81,3,Medium,Average,3,Budget Highly-Rated
+Bossypants,Â£49.46,Two,in stock,bossypants_883/index.html,49.46,2,High,Low Rated,1,Premium Low-Rated
+"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",Â£37.92,Two,in stock,bitch-planet-vol-1-extraordinary-machine-bitch-planet-collected-editions_882/index.html,37.92,2,Medium,Low Rated,1,Premium Low-Rated
+"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",Â£28.09,Two,in stock,avatar-the-last-airbender-smoke-and-shadow-part-3-smoke-and-shadow-3_881/index.html,28.09,2,Medium,Low Rated,2,Budget Low-Rated
+Algorithms to Live By: The Computer Science of Human Decisions,Â£30.81,One,in stock,algorithms-to-live-by-the-computer-science-of-human-decisions_880/index.html,30.81,1,Medium,Low Rated,2,Budget Low-Rated
+A World of Flavor: Your Gluten Free Passport,Â£42.95,One,in stock,a-world-of-flavor-your-gluten-free-passport_879/index.html,42.95,1,High,Low Rated,1,Premium Low-Rated
+"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",Â£56.76,Five,in stock,a-piece-of-sky-a-grain-of-rice-a-memoir-in-four-meditations_878/index.html,56.76,5,High,Highly Rated,0,Premium Highly-Rated
+A Murder in Time,Â£16.64,One,in stock,a-murder-in-time_877/index.html,16.64,1,Low,Low Rated,2,Budget Low-Rated
+A Flight of Arrows (The Pathfinders #2),Â£55.53,Five,in stock,a-flight-of-arrows-the-pathfinders-2_876/index.html,55.53,5,High,Highly Rated,0,Premium Highly-Rated
+A Fierce and Subtle Poison,Â£28.13,Four,in stock,a-fierce-and-subtle-poison_875/index.html,28.13,4,Medium,Highly Rated,3,Budget Highly-Rated
+A Court of Thorns and Roses (A Court of Thorns and Roses #1),Â£52.37,One,in stock,a-court-of-thorns-and-roses-a-court-of-thorns-and-roses-1_874/index.html,52.37,1,High,Low Rated,1,Premium Low-Rated
+(Un)Qualified: How God Uses Broken People to Do Big Things,Â£54.00,Five,in stock,unqualified-how-god-uses-broken-people-to-do-big-things_873/index.html,54.0,5,High,Highly Rated,0,Premium Highly-Rated
+You Are What You Love: The Spiritual Power of Habit,Â£21.87,Four,in stock,you-are-what-you-love-the-spiritual-power-of-habit_872/index.html,21.87,4,Medium,Highly Rated,3,Budget Highly-Rated
+"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",Â£43.30,Four,in stock,william-shakespeares-star-wars-verily-a-new-hope-william-shakespeares-star-wars-4_871/index.html,43.3,4,High,Highly Rated,0,Premium Highly-Rated
+Tuesday Nights in 1980,Â£21.04,Two,in stock,tuesday-nights-in-1980_870/index.html,21.04,2,Medium,Low Rated,2,Budget Low-Rated
+Tracing Numbers on a Train,Â£41.60,Three,in stock,tracing-numbers-on-a-train_869/index.html,41.6,3,High,Average,0,Premium Highly-Rated
+Throne of Glass (Throne of Glass #1),Â£35.07,Three,in stock,throne-of-glass-throne-of-glass-1_868/index.html,35.07,3,Medium,Average,0,Premium Highly-Rated
+Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,Â£59.64,One,in stock,thomas-jefferson-and-the-tripoli-pirates-the-forgotten-war-that-changed-american-history_867/index.html,59.64,1,High,Low Rated,1,Premium Low-Rated
+Thirteen Reasons Why,Â£52.72,One,in stock,thirteen-reasons-why_866/index.html,52.72,1,High,Low Rated,1,Premium Low-Rated
+The White Cat and the Monk: A Retelling of the Poem âPangur BÃ¡nâ,Â£58.08,Four,in stock,the-white-cat-and-the-monk-a-retelling-of-the-poem-pangur-ban_865/index.html,58.08,4,High,Highly Rated,0,Premium Highly-Rated
+The Wedding Dress,Â£24.12,One,in stock,the-wedding-dress_864/index.html,24.12,1,Medium,Low Rated,2,Budget Low-Rated
+The Vacationers,Â£42.15,Four,in stock,the-vacationers_863/index.html,42.15,4,High,Highly Rated,0,Premium Highly-Rated
+The Third Wave: An Entrepreneurâs Vision of the Future,Â£12.61,Five,in stock,the-third-wave-an-entrepreneurs-vision-of-the-future_862/index.html,12.61,5,Low,Highly Rated,3,Budget Highly-Rated
+The Stranger,Â£17.44,Four,in stock,the-stranger_861/index.html,17.44,4,Low,Highly Rated,3,Budget Highly-Rated
+The Shadow Hero (The Shadow Hero),Â£33.14,One,in stock,the-shadow-hero-the-shadow-hero_860/index.html,33.14,1,Medium,Low Rated,2,Budget Low-Rated
+The Secret (The Secret #1),Â£27.37,Four,in stock,the-secret-the-secret-1_859/index.html,27.37,4,Medium,Highly Rated,3,Budget Highly-Rated
+The Regional Office Is Under Attack!,Â£51.36,Five,in stock,the-regional-office-is-under-attack_858/index.html,51.36,5,High,Highly Rated,0,Premium Highly-Rated
+The Psychopath Test: A Journey Through the Madness Industry,Â£36.00,Two,in stock,the-psychopath-test-a-journey-through-the-madness-industry_857/index.html,36.0,2,Medium,Low Rated,1,Premium Low-Rated
+The Project,Â£10.65,One,in stock,the-project_856/index.html,10.65,1,Low,Low Rated,2,Budget Low-Rated
+The Power of Now: A Guide to Spiritual Enlightenment,Â£43.54,Two,in stock,the-power-of-now-a-guide-to-spiritual-enlightenment_855/index.html,43.54,2,High,Low Rated,1,Premium Low-Rated
+The Omnivore's Dilemma: A Natural History of Four Meals,Â£38.21,Two,in stock,the-omnivores-dilemma-a-natural-history-of-four-meals_854/index.html,38.21,2,Medium,Low Rated,1,Premium Low-Rated
+The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,Â£37.34,Five,in stock,the-nerdy-nummies-cookbook-sweet-treats-for-the-geek-in-all-of-us_853/index.html,37.34,5,Medium,Highly Rated,0,Premium Highly-Rated
+The Murder of Roger Ackroyd (Hercule Poirot #4),Â£44.10,Four,in stock,the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html,44.1,4,High,Highly Rated,0,Premium Highly-Rated
+The Mistake (Off-Campus #2),Â£43.29,Three,in stock,the-mistake-off-campus-2_851/index.html,43.29,3,High,Average,0,Premium Highly-Rated
+The Matchmaker's Playbook (Wingmen Inc. #1),Â£55.85,One,in stock,the-matchmakers-playbook-wingmen-inc-1_850/index.html,55.85,1,High,Low Rated,1,Premium Low-Rated
+The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,Â£37.60,Two,in stock,the-love-and-lemons-cookbook-an-apple-to-zucchini-celebration-of-impromptu-cooking_849/index.html,37.6,2,Medium,Low Rated,1,Premium Low-Rated
+The Long Shadow of Small Ghosts: Murder and Memory in an American City,Â£10.97,One,in stock,the-long-shadow-of-small-ghosts-murder-and-memory-in-an-american-city_848/index.html,10.97,1,Low,Low Rated,2,Budget Low-Rated
+The Kite Runner,Â£41.82,Four,in stock,the-kite-runner_847/index.html,41.82,4,High,Highly Rated,0,Premium Highly-Rated
+The House by the Lake,Â£36.95,One,in stock,the-house-by-the-lake_846/index.html,36.95,1,Medium,Low Rated,1,Premium Low-Rated
+The Glittering Court (The Glittering Court #1),Â£44.28,One,in stock,the-glittering-court-the-glittering-court-1_845/index.html,44.28,1,High,Low Rated,1,Premium Low-Rated
+The Girl on the Train,Â£55.02,Two,in stock,the-girl-on-the-train_844/index.html,55.02,2,High,Low Rated,1,Premium Low-Rated
+The Genius of Birds,Â£17.24,One,in stock,the-genius-of-birds_843/index.html,17.24,1,Low,Low Rated,2,Budget Low-Rated
+The Emerald Mystery,Â£23.15,Two,in stock,the-emerald-mystery_842/index.html,23.15,2,Medium,Low Rated,2,Budget Low-Rated
+The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,Â£41.25,One,in stock,the-cookies-cups-cookbook-125-sweet-savory-recipes-reminding-you-to-always-eat-dessert-first_841/index.html,41.25,1,High,Low Rated,1,Premium Low-Rated
+The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,Â£32.00,Three,in stock,the-bridge-to-consciousness-im-writing-the-bridge-between-science-and-our-old-and-new-beliefs_840/index.html,32.0,3,Medium,Average,3,Budget Highly-Rated
+The Artist's Way: A Spiritual Path to Higher Creativity,Â£38.49,Five,in stock,the-artists-way-a-spiritual-path-to-higher-creativity_839/index.html,38.49,5,Medium,Highly Rated,0,Premium Highly-Rated
+The Art of War,Â£33.34,Five,in stock,the-art-of-war_838/index.html,33.34,5,Medium,Highly Rated,3,Budget Highly-Rated
+The Argonauts,Â£10.93,Two,in stock,the-argonauts_837/index.html,10.93,2,Low,Low Rated,2,Budget Low-Rated
+The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,Â£27.55,Three,in stock,the-10-entrepreneur-live-your-startup-dream-without-quitting-your-day-job_836/index.html,27.55,3,Medium,Average,3,Budget Highly-Rated
+Suddenly in Love (Lake Haven #1),Â£55.99,Two,in stock,suddenly-in-love-lake-haven-1_835/index.html,55.99,2,High,Low Rated,1,Premium Low-Rated
+Something More Than This,Â£16.24,Four,in stock,something-more-than-this_834/index.html,16.24,4,Low,Highly Rated,3,Budget Highly-Rated
+Soft Apocalypse,Â£26.12,Two,in stock,soft-apocalypse_833/index.html,26.12,2,Medium,Low Rated,2,Budget Low-Rated
+So You've Been Publicly Shamed,Â£12.23,Two,in stock,so-youve-been-publicly-shamed_832/index.html,12.23,2,Low,Low Rated,2,Budget Low-Rated
+Shoe Dog: A Memoir by the Creator of NIKE,Â£23.99,Two,in stock,shoe-dog-a-memoir-by-the-creator-of-nike_831/index.html,23.99,2,Medium,Low Rated,2,Budget Low-Rated
+"Shobu Samurai, Project Aryoku (#3)",Â£29.06,Three,in stock,shobu-samurai-project-aryoku-3_830/index.html,29.06,3,Medium,Average,3,Budget Highly-Rated
+Secrets and Lace (Fatal Hearts #1),Â£20.27,One,in stock,secrets-and-lace-fatal-hearts-1_829/index.html,20.27,1,Medium,Low Rated,2,Budget Low-Rated
+Scarlett Epstein Hates It Here,Â£43.55,Five,in stock,scarlett-epstein-hates-it-here_828/index.html,43.55,5,High,Highly Rated,0,Premium Highly-Rated
+Romero and Juliet: A Tragic Tale of Love and Zombies,Â£36.94,One,in stock,romero-and-juliet-a-tragic-tale-of-love-and-zombies_827/index.html,36.94,1,Medium,Low Rated,1,Premium Low-Rated
+Redeeming Love,Â£20.47,Five,in stock,redeeming-love_826/index.html,20.47,5,Medium,Highly Rated,3,Budget Highly-Rated
+Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,Â£41.06,One,in stock,poses-for-artists-volume-1-dynamic-and-sitting-poses-an-essential-reference-for-figure-drawing-and-the-human-form_825/index.html,41.06,1,High,Low Rated,1,Premium Low-Rated
+Poems That Make Grown Women Cry,Â£14.19,Four,in stock,poems-that-make-grown-women-cry_824/index.html,14.19,4,Low,Highly Rated,3,Budget Highly-Rated
+"Nightingale, Sing",Â£38.28,One,in stock,nightingale-sing_823/index.html,38.28,1,Medium,Low Rated,1,Premium Low-Rated
+Night Sky with Exit Wounds,Â£41.05,One,in stock,night-sky-with-exit-wounds_822/index.html,41.05,1,High,Low Rated,1,Premium Low-Rated
+Mrs. Houdini,Â£30.25,Five,in stock,mrs-houdini_821/index.html,30.25,5,Medium,Highly Rated,3,Budget Highly-Rated
+Modern Romance,Â£28.26,Five,in stock,modern-romance_820/index.html,28.26,5,Medium,Highly Rated,3,Budget Highly-Rated
+Miss Peregrineâs Home for Peculiar Children (Miss Peregrineâs Peculiar Children #1),Â£10.76,One,in stock,miss-peregrines-home-for-peculiar-children-miss-peregrines-peculiar-children-1_819/index.html,10.76,1,Low,Low Rated,2,Budget Low-Rated
+Louisa: The Extraordinary Life of Mrs. Adams,Â£16.85,Two,in stock,louisa-the-extraordinary-life-of-mrs-adams_818/index.html,16.85,2,Low,Low Rated,2,Budget Low-Rated
+Little Red,Â£13.47,Three,in stock,little-red_817/index.html,13.47,3,Low,Average,3,Budget Highly-Rated
+Library of Souls (Miss Peregrineâs Peculiar Children #3),Â£48.56,Five,in stock,library-of-souls-miss-peregrines-peculiar-children-3_816/index.html,48.56,5,High,Highly Rated,0,Premium Highly-Rated
+Large Print Heart of the Pride,Â£19.15,Two,in stock,large-print-heart-of-the-pride_815/index.html,19.15,2,Low,Low Rated,2,Budget Low-Rated
+I Had a Nice Time And Other Lies...: How to find love & sh*t like that,Â£57.36,Four,in stock,i-had-a-nice-time-and-other-lies-how-to-find-love-sht-like-that_814/index.html,57.36,4,High,Highly Rated,0,Premium Highly-Rated
+Hollow City (Miss Peregrineâs Peculiar Children #2),Â£42.98,One,in stock,hollow-city-miss-peregrines-peculiar-children-2_813/index.html,42.98,1,High,Low Rated,1,Premium Low-Rated
+Grumbles,Â£22.16,Two,in stock,grumbles_812/index.html,22.16,2,Medium,Low Rated,2,Budget Low-Rated
+Full Moon over Noahâs Ark: An Odyssey to Mount Ararat and Beyond,Â£49.43,Four,in stock,full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html,49.43,4,High,Highly Rated,0,Premium Highly-Rated
+Frostbite (Vampire Academy #2),Â£29.99,Five,in stock,frostbite-vampire-academy-2_810/index.html,29.99,5,Medium,Highly Rated,3,Budget Highly-Rated
+Follow You Home,Â£21.36,One,in stock,follow-you-home_809/index.html,21.36,1,Medium,Low Rated,2,Budget Low-Rated
+First Steps for New Christians (Print Edition),Â£29.00,One,in stock,first-steps-for-new-christians-print-edition_808/index.html,29.0,1,Medium,Low Rated,2,Budget Low-Rated
+Finders Keepers (Bill Hodges Trilogy #2),Â£53.53,Five,in stock,finders-keepers-bill-hodges-trilogy-2_807/index.html,53.53,5,High,Highly Rated,0,Premium Highly-Rated
+"Fables, Vol. 1: Legends in Exile (Fables #1)",Â£41.62,Four,in stock,fables-vol-1-legends-in-exile-fables-1_806/index.html,41.62,4,High,Highly Rated,0,Premium Highly-Rated
+Eureka Trivia 6.0,Â£54.59,Four,in stock,eureka-trivia-60_805/index.html,54.59,4,High,Highly Rated,0,Premium Highly-Rated
+Drive: The Surprising Truth About What Motivates Us,Â£34.95,Four,in stock,drive-the-surprising-truth-about-what-motivates-us_804/index.html,34.95,4,Medium,Highly Rated,0,Premium Highly-Rated
+Done Rubbed Out (Reightman & Bailey #1),Â£37.72,Five,in stock,done-rubbed-out-reightman-bailey-1_803/index.html,37.72,5,Medium,Highly Rated,0,Premium Highly-Rated
+Doing It Over (Most Likely To #1),Â£35.61,Three,in stock,doing-it-over-most-likely-to-1_802/index.html,35.61,3,Medium,Average,0,Premium Highly-Rated
+"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",Â£42.16,Three,in stock,deliciously-ella-every-day-quick-and-easy-recipes-for-gluten-free-snacks-packed-lunches-and-simple-meals_801/index.html,42.16,3,High,Average,0,Premium Highly-Rated
+Dark Notes,Â£19.19,Five,in stock,dark-notes_800/index.html,19.19,5,Low,Highly Rated,3,Budget Highly-Rated
+"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",Â£19.43,Three,in stock,daring-greatly-how-the-courage-to-be-vulnerable-transforms-the-way-we-live-love-parent-and-lead_799/index.html,19.43,3,Low,Average,3,Budget Highly-Rated
+Close to You,Â£49.46,Four,in stock,close-to-you_798/index.html,49.46,4,High,Highly Rated,0,Premium Highly-Rated
+Chasing Heaven: What Dying Taught Me About Living,Â£37.80,Two,in stock,chasing-heaven-what-dying-taught-me-about-living_797/index.html,37.8,2,Medium,Low Rated,1,Premium Low-Rated
+Big Magic: Creative Living Beyond Fear,Â£30.80,Three,in stock,big-magic-creative-living-beyond-fear_796/index.html,30.8,3,Medium,Average,3,Budget Highly-Rated
+Becoming Wise: An Inquiry into the Mystery and Art of Living,Â£27.43,Two,in stock,becoming-wise-an-inquiry-into-the-mystery-and-art-of-living_795/index.html,27.43,2,Medium,Low Rated,2,Budget Low-Rated
+Beauty Restored (Riley Family Legacy Novellas #3),Â£11.11,Two,in stock,beauty-restored-riley-family-legacy-novellas-3_794/index.html,11.11,2,Low,Low Rated,2,Budget Low-Rated
+Batman: The Long Halloween (Batman),Â£36.50,Two,in stock,batman-the-long-halloween-batman_793/index.html,36.5,2,Medium,Low Rated,1,Premium Low-Rated
+Batman: The Dark Knight Returns (Batman),Â£15.38,Five,in stock,batman-the-dark-knight-returns-batman_792/index.html,15.38,5,Low,Highly Rated,3,Budget Highly-Rated
+Ayumi's Violin,Â£15.48,Two,in stock,ayumis-violin_791/index.html,15.48,2,Low,Low Rated,2,Budget Low-Rated
+Anonymous,Â£46.82,Four,in stock,anonymous_790/index.html,46.82,4,High,Highly Rated,0,Premium Highly-Rated
+Amy Meets the Saints and Sages,Â£18.46,Three,in stock,amy-meets-the-saints-and-sages_789/index.html,18.46,3,Low,Average,3,Budget Highly-Rated
+Amid the Chaos,Â£36.58,One,in stock,amid-the-chaos_788/index.html,36.58,1,Medium,Low Rated,1,Premium Low-Rated
+Amatus,Â£50.54,Five,in stock,amatus_787/index.html,50.54,5,High,Highly Rated,0,Premium Highly-Rated
+Agnostic: A Spirited Manifesto,Â£12.51,Five,in stock,agnostic-a-spirited-manifesto_786/index.html,12.51,5,Low,Highly Rated,3,Budget Highly-Rated
+Zealot: The Life and Times of Jesus of Nazareth,Â£24.70,Three,in stock,zealot-the-life-and-times-of-jesus-of-nazareth_785/index.html,24.7,3,Medium,Average,3,Budget Highly-Rated
+You (You #1),Â£43.61,Five,in stock,you-you-1_784/index.html,43.61,5,High,Highly Rated,0,Premium Highly-Rated
+"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",Â£37.34,Four,in stock,wonder-woman-earth-one-volume-one-wonder-woman-earth-one-1_783/index.html,37.34,4,Medium,Highly Rated,0,Premium Highly-Rated
+Wild Swans,Â£14.36,Two,in stock,wild-swans_782/index.html,14.36,2,Low,Low Rated,2,Budget Low-Rated
+Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,Â£52.65,Four,in stock,why-the-right-went-wrong-conservatism-from-goldwater-to-the-tea-party-and-beyond_781/index.html,52.65,4,High,Highly Rated,0,Premium Highly-Rated
+Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,Â£38.20,Four,in stock,whole-lotta-creativity-going-on-60-fun-and-unusual-exercises-to-awaken-and-strengthen-your-creativity_780/index.html,38.2,4,Medium,Highly Rated,0,Premium Highly-Rated
+What's It Like in Space?: Stories from Astronauts Who've Been There,Â£19.60,Two,in stock,whats-it-like-in-space-stories-from-astronauts-whove-been-there_779/index.html,19.6,2,Low,Low Rated,2,Budget Low-Rated
+"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",Â£53.90,One,in stock,we-are-robin-vol-1-the-vigilante-business-we-are-robin-1_778/index.html,53.9,1,High,Low Rated,1,Premium Low-Rated
+Walt Disney's Alice in Wonderland,Â£12.96,Five,in stock,walt-disneys-alice-in-wonderland_777/index.html,12.96,5,Low,Highly Rated,3,Budget Highly-Rated
+V for Vendetta (V for Vendetta Complete),Â£37.10,Four,in stock,v-for-vendetta-v-for-vendetta-complete_776/index.html,37.1,4,Medium,Highly Rated,0,Premium Highly-Rated
+Until Friday Night (The Field Party #1),Â£46.31,Two,in stock,until-friday-night-the-field-party-1_775/index.html,46.31,2,High,Low Rated,1,Premium Low-Rated
+"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Â£45.95,Two,in stock,unbroken-a-world-war-ii-story-of-survival-resilience-and-redemption_774/index.html,45.95,2,High,Low Rated,1,Premium Low-Rated
+Twenty Yawns,Â£22.08,Two,in stock,twenty-yawns_773/index.html,22.08,2,Medium,Low Rated,2,Budget Low-Rated
+Through the Woods,Â£25.38,Two,in stock,through-the-woods_772/index.html,25.38,2,Medium,Low Rated,2,Budget Low-Rated
+This Is Where It Ends,Â£27.12,Two,in stock,this-is-where-it-ends_771/index.html,27.12,2,Medium,Low Rated,2,Budget Low-Rated
+The Year of Magical Thinking,Â£43.04,Two,in stock,the-year-of-magical-thinking_770/index.html,43.04,2,High,Low Rated,1,Premium Low-Rated
+The Wright Brothers,Â£56.80,Four,in stock,the-wright-brothers_769/index.html,56.8,4,High,Highly Rated,0,Premium Highly-Rated
+The White Queen (The Cousins' War #1),Â£25.91,Five,in stock,the-white-queen-the-cousins-war-1_768/index.html,25.91,5,Medium,Highly Rated,3,Budget Highly-Rated
+The Wedding Pact (The O'Malleys #2),Â£32.61,Three,in stock,the-wedding-pact-the-omalleys-2_767/index.html,32.61,3,Medium,Average,3,Budget Highly-Rated
+The Time Keeper,Â£27.88,Five,in stock,the-time-keeper_766/index.html,27.88,5,Medium,Highly Rated,3,Budget Highly-Rated
+The Testament of Mary,Â£52.67,Four,in stock,the-testament-of-mary_765/index.html,52.67,4,High,Highly Rated,0,Premium Highly-Rated
+The Star-Touched Queen,Â£46.02,Five,in stock,the-star-touched-queen_764/index.html,46.02,5,High,Highly Rated,0,Premium Highly-Rated
+The Songs of the Gods,Â£44.48,Five,in stock,the-songs-of-the-gods_763/index.html,44.48,5,High,Highly Rated,0,Premium Highly-Rated
+The Song of Achilles,Â£37.40,Five,in stock,the-song-of-achilles_762/index.html,37.4,5,Medium,Highly Rated,0,Premium Highly-Rated
+The Rosie Project (Don Tillman #1),Â£54.04,One,in stock,the-rosie-project-don-tillman-1_761/index.html,54.04,1,High,Low Rated,1,Premium Low-Rated
+The Power of Habit: Why We Do What We Do in Life and Business,Â£16.88,Three,in stock,the-power-of-habit-why-we-do-what-we-do-in-life-and-business_760/index.html,16.88,3,Low,Average,3,Budget Highly-Rated
+The Marriage of Opposites,Â£28.08,Four,in stock,the-marriage-of-opposites_759/index.html,28.08,4,Medium,Highly Rated,3,Budget Highly-Rated
+The Lucifer Effect: Understanding How Good People Turn Evil,Â£10.40,One,in stock,the-lucifer-effect-understanding-how-good-people-turn-evil_758/index.html,10.4,1,Low,Low Rated,2,Budget Low-Rated
+The Long Haul (Diary of a Wimpy Kid #9),Â£44.07,One,in stock,the-long-haul-diary-of-a-wimpy-kid-9_757/index.html,44.07,1,High,Low Rated,1,Premium Low-Rated
+The Loney,Â£23.40,One,in stock,the-loney_756/index.html,23.4,1,Medium,Low Rated,2,Budget Low-Rated
+The Literature Book (Big Ideas Simply Explained),Â£17.43,Three,in stock,the-literature-book-big-ideas-simply-explained_755/index.html,17.43,3,Low,Average,3,Budget Highly-Rated
+The Last Mile (Amos Decker #2),Â£54.21,Two,in stock,the-last-mile-amos-decker-2_754/index.html,54.21,2,High,Low Rated,1,Premium Low-Rated
+The Immortal Life of Henrietta Lacks,Â£40.67,Two,in stock,the-immortal-life-of-henrietta-lacks_753/index.html,40.67,2,High,Low Rated,1,Premium Low-Rated
+The Hidden Oracle (The Trials of Apollo #1),Â£52.26,Two,in stock,the-hidden-oracle-the-trials-of-apollo-1_752/index.html,52.26,2,High,Low Rated,1,Premium Low-Rated
+The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,Â£28.77,Three,in stock,the-help-yourself-cookbook-for-kids-60-easy-plant-based-recipes-kids-can-make-to-stay-healthy-and-save-the-earth_751/index.html,28.77,3,Medium,Average,3,Budget Highly-Rated
+The Guilty (Will Robie #4),Â£13.82,Two,in stock,the-guilty-will-robie-4_750/index.html,13.82,2,Low,Low Rated,2,Budget Low-Rated
+The First Hostage (J.B. Collins #2),Â£25.85,Three,in stock,the-first-hostage-jb-collins-2_749/index.html,25.85,3,Medium,Average,3,Budget Highly-Rated
+The Dovekeepers,Â£48.78,One,in stock,the-dovekeepers_748/index.html,48.78,1,High,Low Rated,1,Premium Low-Rated
+The Darkest Lie,Â£35.35,Five,in stock,the-darkest-lie_747/index.html,35.35,5,Medium,Highly Rated,0,Premium Highly-Rated
+The Bane Chronicles (The Bane Chronicles #1-11),Â£44.73,Four,in stock,the-bane-chronicles-the-bane-chronicles-1-11_746/index.html,44.73,4,High,Highly Rated,0,Premium Highly-Rated
+The Bad-Ass Librarians of Timbuktu: And Their Race to Save the Worldâs Most Precious Manuscripts,Â£15.77,One,in stock,the-bad-ass-librarians-of-timbuktu-and-their-race-to-save-the-worlds-most-precious-manuscripts_745/index.html,15.77,1,Low,Low Rated,2,Budget Low-Rated
+The 14th Colony (Cotton Malone #11),Â£39.24,One,in stock,the-14th-colony-cotton-malone-11_744/index.html,39.24,1,Medium,Low Rated,1,Premium Low-Rated
+That Darkness (Gardiner and Renner #1),Â£13.92,One,in stock,that-darkness-gardiner-and-renner-1_743/index.html,13.92,1,Low,Low Rated,2,Budget Low-Rated
+Tastes Like Fear (DI Marnie Rome #3),Â£10.69,One,in stock,tastes-like-fear-di-marnie-rome-3_742/index.html,10.69,1,Low,Low Rated,2,Budget Low-Rated
+Take Me with You,Â£45.21,Three,in stock,take-me-with-you_741/index.html,45.21,3,High,Average,0,Premium Highly-Rated
+Swell: A Year of Waves,Â£45.58,One,in stock,swell-a-year-of-waves_740/index.html,45.58,1,High,Low Rated,1,Premium Low-Rated
+Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),Â£11.89,Five,in stock,superman-vol-1-before-truth-superman-by-gene-luen-yang-1_739/index.html,11.89,5,Low,Highly Rated,3,Budget Highly-Rated
+Still Life with Bread Crumbs,Â£26.41,Three,in stock,still-life-with-bread-crumbs_738/index.html,26.41,3,Medium,Average,3,Budget Highly-Rated
+Steve Jobs,Â£39.50,Five,in stock,steve-jobs_737/index.html,39.5,5,Medium,Highly Rated,0,Premium Highly-Rated
+Sorting the Beef from the Bull: The Science of Food Fraud Forensics,Â£44.74,Four,in stock,sorting-the-beef-from-the-bull-the-science-of-food-fraud-forensics_736/index.html,44.74,4,High,Highly Rated,0,Premium Highly-Rated
+Someone Like You (The Harrisons #2),Â£52.79,Five,in stock,someone-like-you-the-harrisons-2_735/index.html,52.79,5,High,Highly Rated,0,Premium Highly-Rated
+"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",Â£35.43,Four,in stock,so-cute-it-hurts-vol-6-so-cute-it-hurts-6_734/index.html,35.43,4,Medium,Highly Rated,0,Premium Highly-Rated
+Shtum,Â£55.84,Four,in stock,shtum_733/index.html,55.84,4,High,Highly Rated,0,Premium Highly-Rated
+See America: A Celebration of Our National Parks & Treasured Sites,Â£48.87,Three,in stock,see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html,48.87,3,High,Average,0,Premium Highly-Rated
+salt.,Â£46.78,Four,in stock,salt_731/index.html,46.78,4,High,Highly Rated,0,Premium Highly-Rated
+Robin War,Â£47.82,Three,in stock,robin-war_730/index.html,47.82,3,High,Average,0,Premium Highly-Rated
+"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",Â£25.48,Two,in stock,red-hoodarsenal-vol-1-open-for-business-red-hoodarsenal-1_729/index.html,25.48,2,Medium,Low Rated,2,Budget Low-Rated
+Rain Fish,Â£23.57,Three,in stock,rain-fish_728/index.html,23.57,3,Medium,Average,3,Budget Highly-Rated
+"Quarter Life Poetry: Poems for the Young, Broke and Hangry",Â£50.89,Five,in stock,quarter-life-poetry-poems-for-the-young-broke-and-hangry_727/index.html,50.89,5,High,Highly Rated,0,Premium Highly-Rated
+Pet Sematary,Â£10.56,Three,in stock,pet-sematary_726/index.html,10.56,3,Low,Average,3,Budget Highly-Rated
+"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",Â£52.15,Three,in stock,overload-how-to-unplug-unwind-and-unleash-yourself-from-the-pressure-of-stress_725/index.html,52.15,3,High,Average,0,Premium Highly-Rated
+Once Was a Time,Â£18.28,Two,in stock,once-was-a-time_724/index.html,18.28,2,Low,Low Rated,2,Budget Low-Rated
+Old School (Diary of a Wimpy Kid #10),Â£11.83,Five,in stock,old-school-diary-of-a-wimpy-kid-10_723/index.html,11.83,5,Low,Highly Rated,3,Budget Highly-Rated
+No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,Â£21.95,Two,in stock,no-dream-is-too-high-life-lessons-from-a-man-who-walked-on-the-moon_722/index.html,21.95,2,Medium,Low Rated,2,Budget Low-Rated
+"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",Â£38.39,Two,in stock,naruto-3-in-1-edition-vol-14-includes-vols-40-41-42-naruto-omnibus-14_721/index.html,38.39,2,Medium,Low Rated,1,Premium Low-Rated
+My Name Is Lucy Barton,Â£41.56,One,in stock,my-name-is-lucy-barton_720/index.html,41.56,1,High,Low Rated,1,Premium Low-Rated
+My Mrs. Brown,Â£24.48,Three,in stock,my-mrs-brown_719/index.html,24.48,3,Medium,Average,3,Budget Highly-Rated
+My Kind of Crazy,Â£40.36,One,in stock,my-kind-of-crazy_718/index.html,40.36,1,High,Low Rated,1,Premium Low-Rated
+Mr. Mercedes (Bill Hodges Trilogy #1),Â£28.90,One,in stock,mr-mercedes-bill-hodges-trilogy-1_717/index.html,28.9,1,Medium,Low Rated,2,Budget Low-Rated
+More Than Music (Chasing the Dream #1),Â£37.61,Two,in stock,more-than-music-chasing-the-dream-1_716/index.html,37.61,2,Medium,Low Rated,1,Premium Low-Rated
+Made to Stick: Why Some Ideas Survive and Others Die,Â£38.85,Five,in stock,made-to-stick-why-some-ideas-survive-and-others-die_715/index.html,38.85,5,Medium,Highly Rated,0,Premium Highly-Rated
+Luis Paints the World,Â£53.95,Three,in stock,luis-paints-the-world_714/index.html,53.95,3,High,Average,0,Premium Highly-Rated
+Luckiest Girl Alive,Â£49.83,Three,in stock,luckiest-girl-alive_713/index.html,49.83,3,High,Average,0,Premium Highly-Rated
+Lowriders to the Center of the Earth (Lowriders in Space #2),Â£51.51,Two,in stock,lowriders-to-the-center-of-the-earth-lowriders-in-space-2_712/index.html,51.51,2,High,Low Rated,1,Premium Low-Rated
+Love Is a Mix Tape (Music #1),Â£18.03,One,in stock,love-is-a-mix-tape-music-1_711/index.html,18.03,1,Low,Low Rated,2,Budget Low-Rated
+Looking for Lovely: Collecting the Moments that Matter,Â£29.14,Five,in stock,looking-for-lovely-collecting-the-moments-that-matter_710/index.html,29.14,5,Medium,Highly Rated,3,Budget Highly-Rated
+"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",Â£46.91,Four,in stock,living-leadership-by-insight-a-good-leader-achieves-a-great-leader-builds-monuments_709/index.html,46.91,4,High,Highly Rated,0,Premium Highly-Rated
+Let It Out: A Journey Through Journaling,Â£26.79,Five,in stock,let-it-out-a-journey-through-journaling_708/index.html,26.79,5,Medium,Highly Rated,3,Budget Highly-Rated
+Lady Midnight (The Dark Artifices #1),Â£16.28,Five,in stock,lady-midnight-the-dark-artifices-1_707/index.html,16.28,5,Low,Highly Rated,3,Budget Highly-Rated
+"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",Â£19.55,One,in stock,its-all-easy-healthy-delicious-weeknight-meals-in-under-30-minutes_706/index.html,19.55,1,Low,Low Rated,2,Budget Low-Rated
+Island of Dragons (Unwanteds #7),Â£29.65,One,in stock,island-of-dragons-unwanteds-7_705/index.html,29.65,1,Medium,Low Rated,2,Budget Low-Rated
+I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,Â£25.98,Four,in stock,i-know-what-im-doing-and-other-lies-i-tell-myself-dispatches-from-a-life-under-construction_704/index.html,25.98,4,Medium,Highly Rated,3,Budget Highly-Rated
+I Am Pilgrim (Pilgrim #1),Â£10.60,Four,in stock,i-am-pilgrim-pilgrim-1_703/index.html,10.6,4,Low,Highly Rated,3,Budget Highly-Rated
+"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",Â£14.75,Five,in stock,hyperbole-and-a-half-unfortunate-situations-flawed-coping-mechanisms-mayhem-and-other-things-that-happened_702/index.html,14.75,5,Low,Highly Rated,3,Budget Highly-Rated
+"Hush, Hush (Hush, Hush #1)",Â£47.02,Three,in stock,hush-hush-hush-hush-1_701/index.html,47.02,3,High,Average,0,Premium Highly-Rated
+Hold Your Breath (Search and Rescue #1),Â£28.82,One,in stock,hold-your-breath-search-and-rescue-1_700/index.html,28.82,1,Medium,Low Rated,2,Budget Low-Rated
+Hamilton: The Revolution,Â£58.79,Three,in stock,hamilton-the-revolution_699/index.html,58.79,3,High,Average,0,Premium Highly-Rated
+Greek Mythic History,Â£10.23,Five,in stock,greek-mythic-history_698/index.html,10.23,5,Low,Highly Rated,3,Budget Highly-Rated
+God: The Most Unpleasant Character in All Fiction,Â£30.03,Five,in stock,god-the-most-unpleasant-character-in-all-fiction_697/index.html,30.03,5,Medium,Highly Rated,3,Budget Highly-Rated
+Glory over Everything: Beyond The Kitchen House,Â£45.84,Three,in stock,glory-over-everything-beyond-the-kitchen-house_696/index.html,45.84,3,High,Average,0,Premium Highly-Rated
+Feathers: Displays of Brilliant Plumage,Â£49.05,Three,in stock,feathers-displays-of-brilliant-plumage_695/index.html,49.05,3,High,Average,0,Premium Highly-Rated
+"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",Â£15.06,Four,in stock,far-away-places-on-the-brink-of-change-seven-continents-twenty-five-years_694/index.html,15.06,4,Low,Highly Rated,3,Budget Highly-Rated
+Every Last Word,Â£46.47,Three,in stock,every-last-word_693/index.html,46.47,3,High,Average,0,Premium Highly-Rated
+Eligible (The Austen Project #4),Â£27.09,Three,in stock,eligible-the-austen-project-4_692/index.html,27.09,3,Medium,Average,3,Budget Highly-Rated
+El Deafo,Â£57.62,Five,in stock,el-deafo_691/index.html,57.62,5,High,Highly Rated,0,Premium Highly-Rated
+Eight Hundred Grapes,Â£14.39,Four,in stock,eight-hundred-grapes_690/index.html,14.39,4,Low,Highly Rated,3,Budget Highly-Rated
+"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",Â£51.75,Five,in stock,eaternity-more-than-150-deliciously-easy-vegan-recipes-for-a-long-healthy-satisfied-joyful-life_689/index.html,51.75,5,High,Highly Rated,0,Premium Highly-Rated
+"Eat Fat, Get Thin",Â£54.07,Two,in stock,eat-fat-get-thin_688/index.html,54.07,2,High,Low Rated,1,Premium Low-Rated
+Don't Get Caught,Â£55.35,One,in stock,dont-get-caught_687/index.html,55.35,1,High,Low Rated,1,Premium Low-Rated
+Doctor Sleep (The Shining #2),Â£40.12,Two,in stock,doctor-sleep-the-shining-2_686/index.html,40.12,2,High,Low Rated,1,Premium Low-Rated
+Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),Â£37.51,Five,in stock,demigods-magicians-percy-and-annabeth-meet-the-kanes-percy-jackson-kane-chronicles-crossover-1-3_685/index.html,37.51,5,Medium,Highly Rated,0,Premium Highly-Rated
+Dear Mr. Knightley,Â£11.21,Five,in stock,dear-mr-knightley_684/index.html,11.21,5,Low,Highly Rated,3,Budget Highly-Rated
+Daily Fantasy Sports,Â£36.58,One,in stock,daily-fantasy-sports_683/index.html,36.58,1,Medium,Low Rated,1,Premium Low-Rated
+Crazy Love: Overwhelmed by a Relentless God,Â£47.72,Two,in stock,crazy-love-overwhelmed-by-a-relentless-god_682/index.html,47.72,2,High,Low Rated,1,Premium Low-Rated
+Cometh the Hour (The Clifton Chronicles #6),Â£25.01,Three,in stock,cometh-the-hour-the-clifton-chronicles-6_681/index.html,25.01,3,Medium,Average,3,Budget Highly-Rated
+Code Name Verity (Code Name Verity #1),Â£22.13,Four,in stock,code-name-verity-code-name-verity-1_680/index.html,22.13,4,Medium,Highly Rated,3,Budget Highly-Rated
+Clockwork Angel (The Infernal Devices #1),Â£44.14,One,in stock,clockwork-angel-the-infernal-devices-1_679/index.html,44.14,1,High,Low Rated,1,Premium Low-Rated
+City of Glass (The Mortal Instruments #3),Â£56.02,Four,in stock,city-of-glass-the-mortal-instruments-3_678/index.html,56.02,4,High,Highly Rated,0,Premium Highly-Rated
+City of Fallen Angels (The Mortal Instruments #4),Â£11.23,Four,in stock,city-of-fallen-angels-the-mortal-instruments-4_677/index.html,11.23,4,Low,Highly Rated,3,Budget Highly-Rated
+City of Bones (The Mortal Instruments #1),Â£43.28,One,in stock,city-of-bones-the-mortal-instruments-1_676/index.html,43.28,1,High,Low Rated,1,Premium Low-Rated
+City of Ashes (The Mortal Instruments #2),Â£47.27,One,in stock,city-of-ashes-the-mortal-instruments-2_675/index.html,47.27,1,High,Low Rated,1,Premium Low-Rated
+Cell,Â£20.29,Four,in stock,cell_674/index.html,20.29,4,Medium,Highly Rated,3,Budget Highly-Rated
+Catching Jordan (Hundred Oaks),Â£50.83,Three,in stock,catching-jordan-hundred-oaks_673/index.html,50.83,3,High,Average,0,Premium Highly-Rated
+"Carry On, Warrior: Thoughts on Life Unarmed",Â£31.85,Three,in stock,carry-on-warrior-thoughts-on-life-unarmed_672/index.html,31.85,3,Medium,Average,3,Budget Highly-Rated
+Carrie,Â£46.23,Two,in stock,carrie_671/index.html,46.23,2,High,Low Rated,1,Premium Low-Rated
+Buying In: The Secret Dialogue Between What We Buy and Who We Are,Â£37.80,Four,in stock,buying-in-the-secret-dialogue-between-what-we-buy-and-who-we-are_670/index.html,37.8,4,Medium,Highly Rated,0,Premium Highly-Rated
+Brain on Fire: My Month of Madness,Â£49.32,Five,in stock,brain-on-fire-my-month-of-madness_669/index.html,49.32,5,High,Highly Rated,0,Premium Highly-Rated
+Batman: Europa,Â£32.01,Two,in stock,batman-europa_668/index.html,32.01,2,Medium,Low Rated,2,Budget Low-Rated
+Barefoot Contessa Back to Basics,Â£28.01,One,in stock,barefoot-contessa-back-to-basics_667/index.html,28.01,1,Medium,Low Rated,2,Budget Low-Rated
+Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,Â£50.62,Five,in stock,barefoot-contessa-at-home-everyday-recipes-youll-make-over-and-over-again_666/index.html,50.62,5,High,Highly Rated,0,Premium Highly-Rated
+Balloon Animals,Â£17.03,Three,in stock,balloon-animals_665/index.html,17.03,3,Low,Average,3,Budget Highly-Rated
+Art Ops Vol. 1,Â£48.80,Three,in stock,art-ops-vol-1_664/index.html,48.8,3,High,Average,0,Premium Highly-Rated
+Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),Â£58.14,Four,in stock,aristotle-and-dante-discover-the-secrets-of-the-universe-aristotle-and-dante-discover-the-secrets-of-the-universe-1_663/index.html,58.14,4,High,Highly Rated,0,Premium Highly-Rated
+Angels Walking (Angels Walking #1),Â£34.20,Two,in stock,angels-walking-angels-walking-1_662/index.html,34.2,2,Medium,Low Rated,1,Premium Low-Rated
+Angels & Demons (Robert Langdon #1),Â£51.48,Three,in stock,angels-demons-robert-langdon-1_661/index.html,51.48,3,High,Average,0,Premium Highly-Rated
+All the Light We Cannot See,Â£29.87,Five,in stock,all-the-light-we-cannot-see_660/index.html,29.87,5,Medium,Highly Rated,3,Budget Highly-Rated
+"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",Â£10.90,Two,in stock,adulthood-is-a-myth-a-sarahs-scribbles-collection_659/index.html,10.9,2,Low,Low Rated,2,Budget Low-Rated
+Abstract City,Â£56.37,Five,in stock,abstract-city_658/index.html,56.37,5,High,Highly Rated,0,Premium Highly-Rated
+A Time of Torment (Charlie Parker #14),Â£48.35,Five,in stock,a-time-of-torment-charlie-parker-14_657/index.html,48.35,5,High,Highly Rated,0,Premium Highly-Rated
+A Study in Scarlet (Sherlock Holmes #1),Â£16.73,Two,in stock,a-study-in-scarlet-sherlock-holmes-1_656/index.html,16.73,2,Low,Low Rated,2,Budget Low-Rated
+"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",Â£56.48,Two,in stock,a-series-of-catastrophes-and-miracles-a-true-story-of-love-science-and-cancer_655/index.html,56.48,2,High,Low Rated,1,Premium Low-Rated
+A People's History of the United States,Â£40.79,Two,in stock,a-peoples-history-of-the-united-states_654/index.html,40.79,2,High,Low Rated,1,Premium Low-Rated
+A Man Called Ove,Â£39.72,One,in stock,a-man-called-ove_653/index.html,39.72,1,Medium,Low Rated,1,Premium Low-Rated
+A Distant Mirror: The Calamitous 14th Century,Â£14.58,Three,in stock,a-distant-mirror-the-calamitous-14th-century_652/index.html,14.58,3,Low,Average,3,Budget Highly-Rated
+A Brush of Wings (Angels Walking #3),Â£55.51,One,in stock,a-brush-of-wings-angels-walking-3_651/index.html,55.51,1,High,Low Rated,1,Premium Low-Rated
+1491: New Revelations of the Americas Before Columbus,Â£21.80,Three,in stock,1491-new-revelations-of-the-americas-before-columbus_650/index.html,21.8,3,Medium,Average,3,Budget Highly-Rated
+"The Three Searches, Meaning, and the Story",Â£13.33,Three,in stock,the-three-searches-meaning-and-the-story_649/index.html,13.33,3,Low,Average,3,Budget Highly-Rated
+Searching for Meaning in Gailana,Â£38.73,One,in stock,searching-for-meaning-in-gailana_648/index.html,38.73,1,Medium,Low Rated,1,Premium Low-Rated
+Rook,Â£37.86,Four,in stock,rook_647/index.html,37.86,4,Medium,Highly Rated,0,Premium Highly-Rated
+My Kitchen Year: 136 Recipes That Saved My Life,Â£11.53,Two,in stock,my-kitchen-year-136-recipes-that-saved-my-life_646/index.html,11.53,2,Low,Low Rated,2,Budget Low-Rated
+13 Hours: The Inside Account of What Really Happened In Benghazi,Â£27.06,One,in stock,13-hours-the-inside-account-of-what-really-happened-in-benghazi_645/index.html,27.06,1,Medium,Low Rated,2,Budget Low-Rated
+Will You Won't You Want Me?,Â£13.86,Three,in stock,will-you-wont-you-want-me_644/index.html,13.86,3,Low,Average,3,Budget Highly-Rated
+Tipping Point for Planet Earth: How Close Are We to the Edge?,Â£37.55,One,in stock,tipping-point-for-planet-earth-how-close-are-we-to-the-edge_643/index.html,37.55,1,Medium,Low Rated,1,Premium Low-Rated
+The Star-Touched Queen,Â£32.30,Five,in stock,the-star-touched-queen_642/index.html,32.3,5,Medium,Highly Rated,3,Budget Highly-Rated
+The Silent Sister (Riley MacPherson #1),Â£46.29,Five,in stock,the-silent-sister-riley-macpherson-1_641/index.html,46.29,5,High,Highly Rated,0,Premium Highly-Rated
+The Midnight Watch: A Novel of the Titanic and the Californian,Â£26.20,One,in stock,the-midnight-watch-a-novel-of-the-titanic-and-the-californian_640/index.html,26.2,1,Medium,Low Rated,2,Budget Low-Rated
+The Lonely City: Adventures in the Art of Being Alone,Â£33.26,Two,in stock,the-lonely-city-adventures-in-the-art-of-being-alone_639/index.html,33.26,2,Medium,Low Rated,2,Budget Low-Rated
+The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,Â£59.15,Four,in stock,the-gray-rhino-how-to-recognize-and-act-on-the-obvious-dangers-we-ignore_638/index.html,59.15,4,High,Highly Rated,0,Premium Highly-Rated
+The Golden Condom: And Other Essays on Love Lost and Found,Â£39.43,One,in stock,the-golden-condom-and-other-essays-on-love-lost-and-found_637/index.html,39.43,1,Medium,Low Rated,1,Premium Low-Rated
+The Epidemic (The Program 0.6),Â£14.44,Five,in stock,the-epidemic-the-program-06_636/index.html,14.44,5,Low,Highly Rated,3,Budget Highly-Rated
+The Dinner Party,Â£56.54,Two,in stock,the-dinner-party_635/index.html,56.54,2,High,Low Rated,1,Premium Low-Rated
+The Diary of a Young Girl,Â£59.90,Three,in stock,the-diary-of-a-young-girl_634/index.html,59.9,3,High,Average,0,Premium Highly-Rated
+The Children,Â£11.88,Three,in stock,the-children_633/index.html,11.88,3,Low,Average,3,Budget Highly-Rated
+Stars Above (The Lunar Chronicles #4.5),Â£48.05,Two,in stock,stars-above-the-lunar-chronicles-45_632/index.html,48.05,2,High,Low Rated,1,Premium Low-Rated
+Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,Â£21.21,Three,in stock,snatched-how-a-drug-queen-went-undercover-for-the-dea-and-was-kidnapped-by-colombian-guerillas_631/index.html,21.21,3,Medium,Average,3,Budget Highly-Rated
+Raspberry Pi Electronics Projects for the Evil Genius,Â£49.67,Four,in stock,raspberry-pi-electronics-projects-for-the-evil-genius_630/index.html,49.67,4,High,Highly Rated,0,Premium Highly-Rated
+Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,Â£43.14,One,in stock,quench-your-own-thirst-business-lessons-learned-over-a-beer-or-two_629/index.html,43.14,1,High,Low Rated,1,Premium Low-Rated
+Psycho: Sanitarium (Psycho #1.5),Â£36.97,Five,in stock,psycho-sanitarium-psycho-15_628/index.html,36.97,5,Medium,Highly Rated,0,Premium Highly-Rated
+Poisonous (Max Revere Novels #3),Â£26.80,Three,in stock,poisonous-max-revere-novels-3_627/index.html,26.8,3,Medium,Average,3,Budget Highly-Rated
+One with You (Crossfire #5),Â£15.71,Four,in stock,one-with-you-crossfire-5_626/index.html,15.71,4,Low,Highly Rated,3,Budget Highly-Rated
+No Love Allowed (Dodge Cove #1),Â£54.65,Four,in stock,no-love-allowed-dodge-cove-1_625/index.html,54.65,4,High,Highly Rated,0,Premium Highly-Rated
+Murder at the 42nd Street Library (Raymond Ambler #1),Â£54.36,Four,in stock,murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html,54.36,4,High,Highly Rated,0,Premium Highly-Rated
+Most Wanted,Â£35.28,Three,in stock,most-wanted_623/index.html,35.28,3,Medium,Average,0,Premium Highly-Rated
+"Love, Lies and Spies",Â£20.55,Two,in stock,love-lies-and-spies_622/index.html,20.55,2,Medium,Low Rated,2,Budget Low-Rated
+How to Speak Golf: An Illustrated Guide to Links Lingo,Â£58.32,Five,in stock,how-to-speak-golf-an-illustrated-guide-to-links-lingo_621/index.html,58.32,5,High,Highly Rated,0,Premium Highly-Rated
+Hide Away (Eve Duncan #20),Â£11.84,One,in stock,hide-away-eve-duncan-20_620/index.html,11.84,1,Low,Low Rated,2,Budget Low-Rated
+Furiously Happy: A Funny Book About Horrible Things,Â£41.46,Four,in stock,furiously-happy-a-funny-book-about-horrible-things_619/index.html,41.46,4,High,Highly Rated,0,Premium Highly-Rated
+Everyday Italian: 125 Simple and Delicious Recipes,Â£20.10,Five,in stock,everyday-italian-125-simple-and-delicious-recipes_618/index.html,20.1,5,Medium,Highly Rated,3,Budget Highly-Rated
+Equal Is Unfair: America's Misguided Fight Against Income Inequality,Â£56.86,One,in stock,equal-is-unfair-americas-misguided-fight-against-income-inequality_617/index.html,56.86,1,High,Low Rated,1,Premium Low-Rated
+Eleanor & Park,Â£56.51,Five,in stock,eleanor-park_616/index.html,56.51,5,High,Highly Rated,0,Premium Highly-Rated
+Dirty (Dive Bar #1),Â£40.83,Four,in stock,dirty-dive-bar-1_615/index.html,40.83,4,High,Highly Rated,0,Premium Highly-Rated
+Can You Keep a Secret? (Fear Street Relaunch #4),Â£48.64,One,in stock,can-you-keep-a-secret-fear-street-relaunch-4_614/index.html,48.64,1,High,Low Rated,1,Premium Low-Rated
+Boar Island (Anna Pigeon #19),Â£59.48,Three,in stock,boar-island-anna-pigeon-19_613/index.html,59.48,3,High,Average,0,Premium Highly-Rated
+A Paris Apartment,Â£39.01,Four,in stock,a-paris-apartment_612/index.html,39.01,4,Medium,Highly Rated,0,Premium Highly-Rated
+"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",Â£38.77,One,in stock,a-la-mode-120-recipes-in-60-pairings-pies-tarts-cakes-crisps-and-more-topped-with-ice-cream-gelato-frozen-custard-and-more_611/index.html,38.77,1,Medium,Low Rated,1,Premium Low-Rated
+Troublemaker: Surviving Hollywood and Scientology,Â£48.39,Two,in stock,troublemaker-surviving-hollywood-and-scientology_610/index.html,48.39,2,High,Low Rated,1,Premium Low-Rated
+The Widow,Â£27.26,Two,in stock,the-widow_609/index.html,27.26,2,Medium,Low Rated,2,Budget Low-Rated
+"The Sleep Revolution: Transforming Your Life, One Night at a Time",Â£11.68,Four,in stock,the-sleep-revolution-transforming-your-life-one-night-at-a-time_608/index.html,11.68,4,Low,Highly Rated,3,Budget Highly-Rated
+The Improbability of Love,Â£59.45,One,in stock,the-improbability-of-love_607/index.html,59.45,1,High,Low Rated,1,Premium Low-Rated
+The Art of Startup Fundraising,Â£21.00,Three,in stock,the-art-of-startup-fundraising_606/index.html,21.0,3,Medium,Average,3,Budget Highly-Rated
+Take Me Home Tonight (Rock Star Romance #3),Â£53.98,Three,in stock,take-me-home-tonight-rock-star-romance-3_605/index.html,53.98,3,High,Average,0,Premium Highly-Rated
+Sleeping Giants (Themis Files #1),Â£48.74,One,in stock,sleeping-giants-themis-files-1_604/index.html,48.74,1,High,Low Rated,1,Premium Low-Rated
+"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",Â£21.15,Two,in stock,setting-the-world-on-fire-the-brief-astonishing-life-of-st-catherine-of-siena_603/index.html,21.15,2,Medium,Low Rated,2,Budget Low-Rated
+Playing with Fire,Â£13.71,Three,in stock,playing-with-fire_602/index.html,13.71,3,Low,Average,3,Budget Highly-Rated
+Off the Hook (Fishing for Trouble #1),Â£47.67,Three,in stock,off-the-hook-fishing-for-trouble-1_601/index.html,47.67,3,High,Average,0,Premium Highly-Rated
+Mothering Sunday,Â£13.34,Two,in stock,mothering-sunday_600/index.html,13.34,2,Low,Low Rated,2,Budget Low-Rated
+"Mother, Can You Not?",Â£16.89,Five,in stock,mother-can-you-not_599/index.html,16.89,5,Low,Highly Rated,3,Budget Highly-Rated
+M Train,Â£27.18,One,in stock,m-train_598/index.html,27.18,1,Medium,Low Rated,2,Budget Low-Rated
+Lilac Girls,Â£17.28,Two,in stock,lilac-girls_597/index.html,17.28,2,Low,Low Rated,2,Budget Low-Rated
+Lies and Other Acts of Love,Â£45.14,One,in stock,lies-and-other-acts-of-love_596/index.html,45.14,1,High,Low Rated,1,Premium Low-Rated
+Lab Girl,Â£40.85,One,in stock,lab-girl_595/index.html,40.85,1,High,Low Rated,1,Premium Low-Rated
+Keep Me Posted,Â£20.46,Four,in stock,keep-me-posted_594/index.html,20.46,4,Medium,Highly Rated,3,Budget Highly-Rated
+It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,Â£56.27,Three,in stock,it-didnt-start-with-you-how-inherited-family-trauma-shapes-who-we-are-and-how-to-end-the-cycle_593/index.html,56.27,3,High,Average,0,Premium Highly-Rated
+Grey (Fifty Shades #4),Â£48.49,Four,in stock,grey-fifty-shades-4_592/index.html,48.49,4,High,Highly Rated,0,Premium Highly-Rated
+"Exit, Pursued by a Bear",Â£51.34,Four,in stock,exit-pursued-by-a-bear_591/index.html,51.34,4,High,Highly Rated,0,Premium Highly-Rated
+Daredevils,Â£16.34,Three,in stock,daredevils_590/index.html,16.34,3,Low,Average,3,Budget Highly-Rated
+Cravings: Recipes for What You Want to Eat,Â£20.50,Three,in stock,cravings-recipes-for-what-you-want-to-eat_589/index.html,20.5,3,Medium,Average,3,Budget Highly-Rated
+Born for This: How to Find the Work You Were Meant to Do,Â£21.59,Five,in stock,born-for-this-how-to-find-the-work-you-were-meant-to-do_588/index.html,21.59,5,Medium,Highly Rated,3,Budget Highly-Rated
+Arena,Â£21.36,Four,in stock,arena_587/index.html,21.36,4,Medium,Highly Rated,3,Budget Highly-Rated
+Adultery,Â£20.88,Five,in stock,adultery_586/index.html,20.88,5,Medium,Highly Rated,3,Budget Highly-Rated
+A Mother's Reckoning: Living in the Aftermath of Tragedy,Â£19.53,Three,in stock,a-mothers-reckoning-living-in-the-aftermath-of-tragedy_585/index.html,19.53,3,Low,Average,3,Budget Highly-Rated
+A Gentleman's Position (Society of Gentlemen #3),Â£14.75,Five,in stock,a-gentlemans-position-society-of-gentlemen-3_584/index.html,14.75,5,Low,Highly Rated,3,Budget Highly-Rated
+11/22/63,Â£48.48,Three,in stock,112263_583/index.html,48.48,3,High,Average,0,Premium Highly-Rated
+"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",Â£24.57,Two,in stock,10-happier-how-i-tamed-the-voice-in-my-head-reduced-stress-without-losing-my-edge-and-found-self-help-that-actually-works_582/index.html,24.57,2,Medium,Low Rated,2,Budget Low-Rated
+10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,Â£49.71,Five,in stock,10-day-green-smoothie-cleanse-lose-up-to-15-pounds-in-10-days_581/index.html,49.71,5,High,Highly Rated,0,Premium Highly-Rated
+Without Shame,Â£48.27,Five,in stock,without-shame_580/index.html,48.27,5,High,Highly Rated,0,Premium Highly-Rated
+Watchmen,Â£58.05,Four,in stock,watchmen_579/index.html,58.05,4,High,Highly Rated,0,Premium Highly-Rated
+Unlimited Intuition Now,Â£58.87,Four,in stock,unlimited-intuition-now_578/index.html,58.87,4,High,Highly Rated,0,Premium Highly-Rated
+Underlying Notes,Â£11.82,Two,in stock,underlying-notes_577/index.html,11.82,2,Low,Low Rated,2,Budget Low-Rated
+The Shack,Â£28.03,One,in stock,the-shack_576/index.html,28.03,1,Medium,Low Rated,2,Budget Low-Rated
+The New Brand You: Your New Image Makes the Sale for You,Â£44.05,Five,in stock,the-new-brand-you-your-new-image-makes-the-sale-for-you_575/index.html,44.05,5,High,Highly Rated,0,Premium Highly-Rated
+"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",Â£12.34,Four,in stock,the-moosewood-cookbook-recipes-from-moosewood-restaurant-ithaca-new-york_574/index.html,12.34,4,Low,Highly Rated,3,Budget Highly-Rated
+The Flowers Lied,Â£16.68,Two,in stock,the-flowers-lied_573/index.html,16.68,2,Low,Low Rated,2,Budget Low-Rated
+"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",Â£55.91,One,in stock,the-fabric-of-the-cosmos-space-time-and-the-texture-of-reality_572/index.html,55.91,1,High,Low Rated,1,Premium Low-Rated
+The Book of Mormon,Â£24.57,Three,in stock,the-book-of-mormon_571/index.html,24.57,3,Medium,Average,3,Budget Highly-Rated
+The Art and Science of Low Carbohydrate Living,Â£52.98,Five,in stock,the-art-and-science-of-low-carbohydrate-living_570/index.html,52.98,5,High,Highly Rated,0,Premium Highly-Rated
+The Alien Club,Â£54.40,One,in stock,the-alien-club_569/index.html,54.4,1,High,Low Rated,1,Premium Low-Rated
+Suzie Snowflake: One beautiful flake (a self-esteem story),Â£54.81,Five,in stock,suzie-snowflake-one-beautiful-flake-a-self-esteem-story_568/index.html,54.81,5,High,Highly Rated,0,Premium Highly-Rated
+Nap-a-Roo,Â£25.08,One,in stock,nap-a-roo_567/index.html,25.08,1,Medium,Low Rated,2,Budget Low-Rated
+"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",Â£10.41,Four,in stock,nano-what-now-finding-your-editing-process-revising-your-nanowrimo-book-and-building-a-writing-career-through-publishing-and-beyond_566/index.html,10.41,4,Low,Highly Rated,3,Budget Highly-Rated
+Modern Day Fables,Â£47.44,Two,in stock,modern-day-fables_565/index.html,47.44,2,High,Low Rated,1,Premium Low-Rated
+If I Gave You God's Phone Number....: Searching for Spirituality in America,Â£20.91,One,in stock,if-i-gave-you-gods-phone-number-searching-for-spirituality-in-america_564/index.html,20.91,1,Medium,Low Rated,2,Budget Low-Rated
+"Fruits Basket, Vol. 9 (Fruits Basket #9)",Â£33.95,Four,in stock,fruits-basket-vol-9-fruits-basket-9_563/index.html,33.95,4,Medium,Highly Rated,3,Budget Highly-Rated
+Dress Your Family in Corduroy and Denim,Â£43.68,Three,in stock,dress-your-family-in-corduroy-and-denim_562/index.html,43.68,3,High,Average,0,Premium Highly-Rated
+Don't Forget Steven,Â£33.23,One,in stock,dont-forget-steven_561/index.html,33.23,1,Medium,Low Rated,2,Budget Low-Rated
+Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,Â£35.92,Two,in stock,chernobyl-012340-the-incredible-true-story-of-the-worlds-worst-nuclear-disaster_560/index.html,35.92,2,Medium,Low Rated,1,Premium Low-Rated
+Art and Fear: Observations on the Perils (and Rewards) of Artmaking,Â£48.63,Four,in stock,art-and-fear-observations-on-the-perils-and-rewards-of-artmaking_559/index.html,48.63,4,High,Highly Rated,0,Premium Highly-Rated
+A Shard of Ice (The Black Symphony Saga #1),Â£56.63,Three,in stock,a-shard-of-ice-the-black-symphony-saga-1_558/index.html,56.63,3,High,Average,0,Premium Highly-Rated
+A Hero's Curse (The Unseen Chronicles #1),Â£50.49,Three,in stock,a-heros-curse-the-unseen-chronicles-1_557/index.html,50.49,3,High,Average,0,Premium Highly-Rated
+23 Degrees South: A Tropical Tale of Changing Whether...,Â£35.79,Two,in stock,23-degrees-south-a-tropical-tale-of-changing-whether_556/index.html,35.79,2,Medium,Low Rated,1,Premium Low-Rated
+"Zero to One: Notes on Startups, or How to Build the Future",Â£34.06,Three,in stock,zero-to-one-notes-on-startups-or-how-to-build-the-future_555/index.html,34.06,3,Medium,Average,3,Budget Highly-Rated
+Why Not Me?,Â£17.76,One,in stock,why-not-me_554/index.html,17.76,1,Low,Low Rated,2,Budget Low-Rated
+When Breath Becomes Air,Â£39.36,Two,in stock,when-breath-becomes-air_553/index.html,39.36,2,Medium,Low Rated,1,Premium Low-Rated
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,Â£36.94,Two,in stock,vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html,36.94,2,Medium,Low Rated,1,Premium Low-Rated
+The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),Â£43.62,Five,in stock,the-unlikely-pilgrimage-of-harold-fry-harold-fry-1_551/index.html,43.62,5,High,Highly Rated,0,Premium Highly-Rated
+The New Drawing on the Right Side of the Brain,Â£43.02,Three,in stock,the-new-drawing-on-the-right-side-of-the-brain_550/index.html,43.02,3,High,Average,0,Premium Highly-Rated
+"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",Â£28.45,Four,in stock,the-midnight-assassin-panic-scandal-and-the-hunt-for-americas-first-serial-killer_549/index.html,28.45,4,Medium,Highly Rated,3,Budget Highly-Rated
+The Martian (The Martian #1),Â£41.39,Two,in stock,the-martian-the-martian-1_548/index.html,41.39,2,High,Low Rated,1,Premium Low-Rated
+The High Mountains of Portugal,Â£51.15,One,in stock,the-high-mountains-of-portugal_547/index.html,51.15,1,High,Low Rated,1,Premium Low-Rated
+The Grownup,Â£35.88,One,in stock,the-grownup_546/index.html,35.88,1,Medium,Low Rated,1,Premium Low-Rated
+The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,Â£36.91,One,in stock,the-e-myth-revisited-why-most-small-businesses-dont-work-and-what-to-do-about-it_545/index.html,36.91,1,Medium,Low Rated,1,Premium Low-Rated
+South of Sunshine,Â£28.93,One,in stock,south-of-sunshine_544/index.html,28.93,1,Medium,Low Rated,2,Budget Low-Rated
+Smarter Faster Better: The Secrets of Being Productive in Life and Business,Â£38.89,Five,in stock,smarter-faster-better-the-secrets-of-being-productive-in-life-and-business_543/index.html,38.89,5,Medium,Highly Rated,0,Premium Highly-Rated
+Silence in the Dark (Logan Point #4),Â£58.33,Three,in stock,silence-in-the-dark-logan-point-4_542/index.html,58.33,3,High,Average,0,Premium Highly-Rated
+Shadows of the Past (Logan Point #1),Â£39.67,Five,in stock,shadows-of-the-past-logan-point-1_541/index.html,39.67,5,Medium,Highly Rated,0,Premium Highly-Rated
+Roller Girl,Â£14.10,Five,in stock,roller-girl_540/index.html,14.1,5,Low,Highly Rated,3,Budget Highly-Rated
+Rising Strong,Â£21.82,Three,in stock,rising-strong_539/index.html,21.82,3,Medium,Average,3,Budget Highly-Rated
+Proofs of God: Classical Arguments from Tertullian to Barth,Â£54.21,One,in stock,proofs-of-god-classical-arguments-from-tertullian-to-barth_538/index.html,54.21,1,High,Low Rated,1,Premium Low-Rated
+Please Kill Me: The Uncensored Oral History of Punk,Â£31.19,Four,in stock,please-kill-me-the-uncensored-oral-history-of-punk_537/index.html,31.19,4,Medium,Highly Rated,3,Budget Highly-Rated
+Out of Print: City Lights Spotlight No. 14,Â£53.64,Five,in stock,out-of-print-city-lights-spotlight-no-14_536/index.html,53.64,5,High,Highly Rated,0,Premium Highly-Rated
+My Life Next Door (My Life Next Door ),Â£36.39,Five,in stock,my-life-next-door-my-life-next-door_535/index.html,36.39,5,Medium,Highly Rated,0,Premium Highly-Rated
+Miller's Valley,Â£58.54,Two,in stock,millers-valley_534/index.html,58.54,2,High,Low Rated,1,Premium Low-Rated
+Man's Search for Meaning,Â£29.48,Three,in stock,mans-search-for-meaning_533/index.html,29.48,3,Medium,Average,3,Budget Highly-Rated
+"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",Â£25.06,Two,in stock,love-that-boy-what-two-presidents-eight-road-trips-and-my-son-taught-me-about-a-parents-expectations_532/index.html,25.06,2,Medium,Low Rated,2,Budget Low-Rated
+Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,Â£12.55,Three,in stock,living-forward-a-proven-plan-to-stop-drifting-and-get-the-life-you-want_531/index.html,12.55,3,Low,Average,3,Budget Highly-Rated
+Les Fleurs du Mal,Â£29.04,Five,in stock,les-fleurs-du-mal_530/index.html,29.04,5,Medium,Highly Rated,3,Budget Highly-Rated
+Left Behind (Left Behind #1),Â£40.72,Two,in stock,left-behind-left-behind-1_529/index.html,40.72,2,High,Low Rated,1,Premium Low-Rated
+Kill 'Em and Leave: Searching for James Brown and the American Soul,Â£45.05,Five,in stock,kill-em-and-leave-searching-for-james-brown-and-the-american-soul_528/index.html,45.05,5,High,Highly Rated,0,Premium Highly-Rated
+Kierkegaard: A Christian Missionary to Christians,Â£47.13,One,in stock,kierkegaard-a-christian-missionary-to-christians_527/index.html,47.13,1,High,Low Rated,1,Premium Low-Rated
+John Vassos: Industrial Design for Modern Life,Â£20.22,Four,in stock,john-vassos-industrial-design-for-modern-life_526/index.html,20.22,4,Medium,Highly Rated,3,Budget Highly-Rated
+I'll Give You the Sun,Â£56.48,One,in stock,ill-give-you-the-sun_525/index.html,56.48,1,High,Low Rated,1,Premium Low-Rated
+I Will Find You,Â£44.21,One,in stock,i-will-find-you_524/index.html,44.21,1,High,Low Rated,1,Premium Low-Rated
+Hystopia: A Novel,Â£21.96,Four,in stock,hystopia-a-novel_523/index.html,21.96,4,Medium,Highly Rated,3,Budget Highly-Rated
+Howl and Other Poems,Â£40.45,Two,in stock,howl-and-other-poems_522/index.html,40.45,2,High,Low Rated,1,Premium Low-Rated
+History of Beauty,Â£10.29,Four,in stock,history-of-beauty_521/index.html,10.29,4,Low,Highly Rated,3,Budget Highly-Rated
+Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,Â£52.86,Two,in stock,heaven-is-for-real-a-little-boys-astounding-story-of-his-trip-to-heaven-and-back_520/index.html,52.86,2,High,Low Rated,1,Premium Low-Rated
+Future Shock (Future Shock #1),Â£55.65,Five,in stock,future-shock-future-shock-1_519/index.html,55.65,5,High,Highly Rated,0,Premium Highly-Rated
+Ender's Game (The Ender Quintet #1),Â£43.64,One,in stock,enders-game-the-ender-quintet-1_518/index.html,43.64,1,High,Low Rated,1,Premium Low-Rated
+Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,Â£28.41,One,in stock,diary-of-a-citizen-scientist-chasing-tiger-beetles-and-other-new-ways-of-engaging-the-world_517/index.html,28.41,1,Medium,Low Rated,2,Budget Low-Rated
+Death by Leisure: A Cautionary Tale,Â£37.51,Four,in stock,death-by-leisure-a-cautionary-tale_516/index.html,37.51,4,Medium,Highly Rated,0,Premium Highly-Rated
+Brilliant Beacons: A History of the American Lighthouse,Â£11.45,Three,in stock,brilliant-beacons-a-history-of-the-american-lighthouse_515/index.html,11.45,3,Low,Average,3,Budget Highly-Rated
+Brazen: The Courage to Find the You That's Been Hiding,Â£19.22,Two,in stock,brazen-the-courage-to-find-the-you-thats-been-hiding_514/index.html,19.22,2,Low,Low Rated,2,Budget Low-Rated
+Between the World and Me,Â£56.91,Four,in stock,between-the-world-and-me_513/index.html,56.91,4,High,Highly Rated,0,Premium Highly-Rated
+Being Mortal: Medicine and What Matters in the End,Â£55.06,Four,in stock,being-mortal-medicine-and-what-matters-in-the-end_512/index.html,55.06,4,High,Highly Rated,0,Premium Highly-Rated
+"A Murder Over a Girl: Justice, Gender, Junior High",Â£13.20,Three,in stock,a-murder-over-a-girl-justice-gender-junior-high_511/index.html,13.2,3,Low,Average,3,Budget Highly-Rated
+32 Yolks,Â£53.63,Two,in stock,32-yolks_510/index.html,53.63,2,High,Low Rated,1,Premium Low-Rated
+"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",Â£44.48,Five,in stock,most-blessed-of-the-patriarchs-thomas-jefferson-and-the-empire-of-the-imagination_509/index.html,44.48,5,High,Highly Rated,0,Premium Highly-Rated
+You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Â£12.08,Three,in stock,you-are-a-badass-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life_508/index.html,12.08,3,Low,Average,3,Budget Highly-Rated
+Wildlife of New York: A Five-Borough Coloring Book,Â£22.14,Two,in stock,wildlife-of-new-york-a-five-borough-coloring-book_507/index.html,22.14,2,Medium,Low Rated,2,Budget Low-Rated
+What Happened on Beale Street (Secrets of the South Mysteries #2),Â£25.37,Five,in stock,what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html,25.37,5,Medium,Highly Rated,3,Budget Highly-Rated
+Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,Â£46.33,Two,in stock,unreasonable-hope-finding-faith-in-the-god-who-brings-purpose-to-your-pain_505/index.html,46.33,2,High,Low Rated,1,Premium Low-Rated
+Under the Tuscan Sun,Â£37.33,Three,in stock,under-the-tuscan-sun_504/index.html,37.33,3,Medium,Average,0,Premium Highly-Rated
+Toddlers Are A**holes: It's Not Your Fault,Â£25.55,One,in stock,toddlers-are-aholes-its-not-your-fault_503/index.html,25.55,1,Medium,Low Rated,2,Budget Low-Rated
+The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,Â£34.72,One,in stock,the-year-of-living-biblically-one-mans-humble-quest-to-follow-the-bible-as-literally-as-possible_502/index.html,34.72,1,Medium,Low Rated,1,Premium Low-Rated
+The Whale,Â£35.96,Four,in stock,the-whale_501/index.html,35.96,4,Medium,Highly Rated,0,Premium Highly-Rated
+The Story of Art,Â£41.14,Four,in stock,the-story-of-art_500/index.html,41.14,4,High,Highly Rated,0,Premium Highly-Rated
+The Origin of Species,Â£10.01,Four,in stock,the-origin-of-species_499/index.html,10.01,4,Low,Highly Rated,3,Budget Highly-Rated
+The Great Gatsby,Â£36.05,Four,in stock,the-great-gatsby_498/index.html,36.05,4,Medium,Highly Rated,0,Premium Highly-Rated
+The Good Girl,Â£49.03,Three,in stock,the-good-girl_497/index.html,49.03,3,High,Average,0,Premium Highly-Rated
+The Glass Castle,Â£16.24,One,in stock,the-glass-castle_496/index.html,16.24,1,Low,Low Rated,2,Budget Low-Rated
+The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,Â£39.55,One,in stock,the-faith-of-christopher-hitchens-the-restless-soul-of-the-worlds-most-notorious-atheist_495/index.html,39.55,1,Medium,Low Rated,1,Premium Low-Rated
+The Drowning Girls,Â£35.67,Three,in stock,the-drowning-girls_494/index.html,35.67,3,Medium,Average,0,Premium Highly-Rated
+The Constant Princess (The Tudor Court #1),Â£16.62,Three,in stock,the-constant-princess-the-tudor-court-1_493/index.html,16.62,3,Low,Average,3,Budget Highly-Rated
+The Bourne Identity (Jason Bourne #1),Â£42.78,Four,in stock,the-bourne-identity-jason-bourne-1_492/index.html,42.78,4,High,Highly Rated,0,Premium Highly-Rated
+The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),Â£52.30,Five,in stock,the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html,52.3,5,High,Highly Rated,0,Premium Highly-Rated
+The Art Book,Â£32.34,Two,in stock,the-art-book_490/index.html,32.34,2,Medium,Low Rated,2,Budget Low-Rated
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Â£33.17,Four,in stock,the-7-habits-of-highly-effective-people-powerful-lessons-in-personal-change_489/index.html,33.17,4,Medium,Highly Rated,3,Budget Highly-Rated
+Team of Rivals: The Political Genius of Abraham Lincoln,Â£20.12,Five,in stock,team-of-rivals-the-political-genius-of-abraham-lincoln_488/index.html,20.12,5,Medium,Highly Rated,3,Budget Highly-Rated
+Steal Like an Artist: 10 Things Nobody Told You About Being Creative,Â£20.90,Two,in stock,steal-like-an-artist-10-things-nobody-told-you-about-being-creative_487/index.html,20.9,2,Medium,Low Rated,2,Budget Low-Rated
+"Sit, Stay, Love",Â£20.90,Three,in stock,sit-stay-love_486/index.html,20.9,3,Medium,Average,3,Budget Highly-Rated
+Sister Dear,Â£40.20,Four,in stock,sister-dear_485/index.html,40.2,4,High,Highly Rated,0,Premium Highly-Rated
+"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",Â£52.87,Three,in stock,shrunken-treasures-literary-classics-short-sweet-and-silly_484/index.html,52.87,3,High,Average,0,Premium Highly-Rated
+"Rich Dad, Poor Dad",Â£51.74,One,in stock,rich-dad-poor-dad_483/index.html,51.74,1,High,Low Rated,1,Premium Low-Rated
+Raymie Nightingale,Â£34.41,Two,in stock,raymie-nightingale_482/index.html,34.41,2,Medium,Low Rated,1,Premium Low-Rated
+Playing from the Heart,Â£32.38,One,in stock,playing-from-the-heart_481/index.html,32.38,1,Medium,Low Rated,2,Budget Low-Rated
+Nightstruck: A Novel,Â£50.35,Four,in stock,nightstruck-a-novel_480/index.html,50.35,4,High,Highly Rated,0,Premium Highly-Rated
+"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",Â£11.38,Five,in stock,naturally-lean-125-nourishing-gluten-free-plant-based-recipes-all-under-300-calories_479/index.html,11.38,5,Low,Highly Rated,3,Budget Highly-Rated
+Meternity,Â£43.58,Three,in stock,meternity_478/index.html,43.58,3,High,Average,0,Premium Highly-Rated
+Memoirs of a Geisha,Â£49.67,Three,in stock,memoirs-of-a-geisha_477/index.html,49.67,3,High,Average,0,Premium Highly-Rated
+Like Never Before (Walker Family #2),Â£28.77,Two,in stock,like-never-before-walker-family-2_476/index.html,28.77,2,Medium,Low Rated,2,Budget Low-Rated
+Life of Pi,Â£13.22,Four,in stock,life-of-pi_475/index.html,13.22,4,Low,Highly Rated,3,Budget Highly-Rated
+Leave This Song Behind: Teen Poetry at Its Best,Â£51.17,Five,in stock,leave-this-song-behind-teen-poetry-at-its-best_474/index.html,51.17,5,High,Highly Rated,0,Premium Highly-Rated
+King's Folly (The Kinsman Chronicles #1),Â£39.61,Five,in stock,kings-folly-the-kinsman-chronicles-1_473/index.html,39.61,5,Medium,Highly Rated,0,Premium Highly-Rated
+John Adams,Â£57.43,Four,in stock,john-adams_472/index.html,57.43,4,High,Highly Rated,0,Premium Highly-Rated
+How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),Â£46.01,Four,in stock,how-to-cook-everything-vegetarian-simple-meatless-recipes-for-great-food-how-to-cook-everything_471/index.html,46.01,4,High,Highly Rated,0,Premium Highly-Rated
+How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,Â£28.25,Two,in stock,how-to-be-a-domestic-goddess-baking-and-the-art-of-comfort-cooking_470/index.html,28.25,2,Medium,Low Rated,2,Budget Low-Rated
+Good in Bed (Cannie Shapiro #1),Â£37.05,Five,in stock,good-in-bed-cannie-shapiro-1_469/index.html,37.05,5,Medium,Highly Rated,0,Premium Highly-Rated
+"Fruits Basket, Vol. 7 (Fruits Basket #7)",Â£19.57,One,in stock,fruits-basket-vol-7-fruits-basket-7_468/index.html,19.57,1,Low,Low Rated,2,Budget Low-Rated
+For the Love: Fighting for Grace in a World of Impossible Standards,Â£45.13,Three,in stock,for-the-love-fighting-for-grace-in-a-world-of-impossible-standards_467/index.html,45.13,3,High,Average,0,Premium Highly-Rated
+Finding God in the Ruins: How God Redeems Pain,Â£46.64,Two,in stock,finding-god-in-the-ruins-how-god-redeems-pain_466/index.html,46.64,2,High,Low Rated,1,Premium Low-Rated
+Every Heart a Doorway (Every Heart A Doorway #1),Â£12.16,Five,in stock,every-heart-a-doorway-every-heart-a-doorway-1_465/index.html,12.16,5,Low,Highly Rated,3,Budget Highly-Rated
+Delivering the Truth (Quaker Midwife Mystery #1),Â£20.89,Four,in stock,delivering-the-truth-quaker-midwife-mystery-1_464/index.html,20.89,4,Medium,Highly Rated,3,Budget Highly-Rated
+Counted With the Stars (Out from Egypt #1),Â£17.97,Five,in stock,counted-with-the-stars-out-from-egypt-1_463/index.html,17.97,5,Low,Highly Rated,3,Budget Highly-Rated
+"Chronicles, Vol. 1",Â£52.60,Two,in stock,chronicles-vol-1_462/index.html,52.6,2,High,Low Rated,1,Premium Low-Rated
+Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,Â£25.77,One,in stock,blue-like-jazz-nonreligious-thoughts-on-christian-spirituality_461/index.html,25.77,1,Medium,Low Rated,2,Budget Low-Rated
+Benjamin Franklin: An American Life,Â£48.19,Three,in stock,benjamin-franklin-an-american-life_460/index.html,48.19,3,High,Average,0,Premium Highly-Rated
+"At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",Â£29.93,Five,in stock,at-the-existentialist-cafe-freedom-being-and-apricot-cocktails-with-jean-paul-sartre-simone-de-beauvoir-albert-camus-martin-heidegger-edmund-husserl-karl-jaspers-maurice-merleau-ponty-and-others_459/index.html,29.93,5,Medium,Highly Rated,3,Budget Highly-Rated
+A Summer In Europe,Â£44.34,Two,in stock,a-summer-in-europe_458/index.html,44.34,2,High,Low Rated,1,Premium Low-Rated
+A Short History of Nearly Everything,Â£52.40,Five,in stock,a-short-history-of-nearly-everything_457/index.html,52.4,5,High,Highly Rated,0,Premium Highly-Rated
+A Gathering of Shadows (Shades of Magic #2),Â£44.81,Four,in stock,a-gathering-of-shadows-shades-of-magic-2_456/index.html,44.81,4,High,Highly Rated,0,Premium Highly-Rated
+The Sound Of Love,Â£57.84,Five,in stock,the-sound-of-love_455/index.html,57.84,5,High,Highly Rated,0,Premium Highly-Rated
+The Rise and Fall of the Third Reich: A History of Nazi Germany,Â£39.67,Two,in stock,the-rise-and-fall-of-the-third-reich-a-history-of-nazi-germany_454/index.html,39.67,2,Medium,Low Rated,1,Premium Low-Rated
+The Perks of Being a Wallflower,Â£55.02,Three,in stock,the-perks-of-being-a-wallflower_453/index.html,55.02,3,High,Average,0,Premium Highly-Rated
+The Mysterious Affair at Styles (Hercule Poirot #1),Â£24.80,Four,in stock,the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html,24.8,4,Medium,Highly Rated,3,Budget Highly-Rated
+The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Â£59.45,Four,in stock,the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales_451/index.html,59.45,4,High,Highly Rated,0,Premium Highly-Rated
+The Makings of a Fatherless Child,Â£31.58,Two,in stock,the-makings-of-a-fatherless-child_450/index.html,31.58,2,Medium,Low Rated,2,Budget Low-Rated
+The Joy of Cooking,Â£43.27,Four,in stock,the-joy-of-cooking_449/index.html,43.27,4,High,Highly Rated,0,Premium Highly-Rated
+The Invention of Wings,Â£37.34,One,in stock,the-invention-of-wings_448/index.html,37.34,1,Medium,Low Rated,1,Premium Low-Rated
+The Hobbit (Middle-Earth Universe),Â£17.80,Five,in stock,the-hobbit-middle-earth-universe_447/index.html,17.8,5,Low,Highly Rated,3,Budget Highly-Rated
+The Great Railway Bazaar,Â£30.54,One,in stock,the-great-railway-bazaar_446/index.html,30.54,1,Medium,Low Rated,2,Budget Low-Rated
+The Golden Compass (His Dark Materials #1),Â£18.77,One,in stock,the-golden-compass-his-dark-materials-1_445/index.html,18.77,1,Low,Low Rated,2,Budget Low-Rated
+The God Delusion,Â£46.85,Three,in stock,the-god-delusion_444/index.html,46.85,3,High,Average,0,Premium Highly-Rated
+The Girl You Left Behind (The Girl You Left Behind #1),Â£15.79,One,in stock,the-girl-you-left-behind-the-girl-you-left-behind-1_443/index.html,15.79,1,Low,Low Rated,2,Budget Low-Rated
+The Fellowship of the Ring (The Lord of the Rings #1),Â£10.27,Two,in stock,the-fellowship-of-the-ring-the-lord-of-the-rings-1_442/index.html,10.27,2,Low,Low Rated,2,Budget Low-Rated
+The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),Â£15.42,Five,in stock,the-collected-poems-of-wb-yeats-the-collected-works-of-wb-yeats-1_441/index.html,15.42,5,Low,Highly Rated,3,Budget Highly-Rated
+The Barefoot Contessa Cookbook,Â£59.92,Five,in stock,the-barefoot-contessa-cookbook_440/index.html,59.92,5,High,Highly Rated,0,Premium Highly-Rated
+Tell the Wolves I'm Home,Â£50.96,Two,in stock,tell-the-wolves-im-home_439/index.html,50.96,2,High,Low Rated,1,Premium Low-Rated
+Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,Â£30.60,Three,in stock,ship-leaves-harbor-essays-on-travel-by-a-recovering-journeyman_438/index.html,30.6,3,Medium,Average,3,Budget Highly-Rated
+Pride and Prejudice,Â£19.27,Four,in stock,pride-and-prejudice_437/index.html,19.27,4,Low,Highly Rated,3,Budget Highly-Rated
+Musicophilia: Tales of Music and the Brain,Â£46.58,One,in stock,musicophilia-tales-of-music-and-the-brain_436/index.html,46.58,1,High,Low Rated,1,Premium Low-Rated
+Mere Christianity,Â£48.51,Three,in stock,mere-christianity_435/index.html,48.51,3,High,Average,0,Premium Highly-Rated
+Me Before You (Me Before You #1),Â£19.02,One,in stock,me-before-you-me-before-you-1_434/index.html,19.02,1,Low,Low Rated,2,Budget Low-Rated
+In the Woods (Dublin Murder Squad #1),Â£38.38,Two,in stock,in-the-woods-dublin-murder-squad-1_433/index.html,38.38,2,Medium,Low Rated,1,Premium Low-Rated
+In Cold Blood,Â£49.98,Four,in stock,in-cold-blood_432/index.html,49.98,4,High,Highly Rated,0,Premium Highly-Rated
+How to Stop Worrying and Start Living,Â£46.49,Five,in stock,how-to-stop-worrying-and-start-living_431/index.html,46.49,5,High,Highly Rated,0,Premium Highly-Rated
+Give It Back,Â£18.32,Two,in stock,give-it-back_430/index.html,18.32,2,Low,Low Rated,2,Budget Low-Rated
+"Girl, Interrupted",Â£42.14,Three,in stock,girl-interrupted_429/index.html,42.14,3,High,Average,0,Premium Highly-Rated
+Fun Home: A Family Tragicomic,Â£56.59,Four,in stock,fun-home-a-family-tragicomic_428/index.html,56.59,4,High,Highly Rated,0,Premium Highly-Rated
+"Fruits Basket, Vol. 6 (Fruits Basket #6)",Â£20.96,Four,in stock,fruits-basket-vol-6-fruits-basket-6_427/index.html,20.96,4,Medium,Highly Rated,3,Budget Highly-Rated
+Deception Point,Â£40.32,Four,in stock,deception-point_426/index.html,40.32,4,High,Highly Rated,0,Premium Highly-Rated
+"Death Note, Vol. 6: Give-and-Take (Death Note #6)",Â£36.39,Three,in stock,death-note-vol-6-give-and-take-death-note-6_425/index.html,36.39,3,Medium,Average,0,Premium Highly-Rated
+Catherine the Great: Portrait of a Woman,Â£58.55,Four,in stock,catherine-the-great-portrait-of-a-woman_424/index.html,58.55,4,High,Highly Rated,0,Premium Highly-Rated
+Better Homes and Gardens New Cook Book,Â£39.61,Three,in stock,better-homes-and-gardens-new-cook-book_423/index.html,39.61,3,Medium,Average,0,Premium Highly-Rated
+An Unquiet Mind: A Memoir of Moods and Madness,Â£21.30,Three,in stock,an-unquiet-mind-a-memoir-of-moods-and-madness_422/index.html,21.3,3,Medium,Average,3,Budget Highly-Rated
+A Year in Provence (Provence #1),Â£56.88,Four,in stock,a-year-in-provence-provence-1_421/index.html,56.88,4,High,Highly Rated,0,Premium Highly-Rated
+World Without End (The Pillars of the Earth #2),Â£32.97,Four,in stock,world-without-end-the-pillars-of-the-earth-2_420/index.html,32.97,4,Medium,Highly Rated,3,Budget Highly-Rated
+"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",Â£47.31,Four,in stock,will-grayson-will-grayson-will-grayson-will-grayson_419/index.html,47.31,4,High,Highly Rated,0,Premium Highly-Rated
+Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,Â£48.67,Two,in stock,why-save-the-bankers-and-other-essays-on-our-economic-and-political-crisis_418/index.html,48.67,2,High,Low Rated,1,Premium Low-Rated
+Where She Went (If I Stay #2),Â£41.73,Four,in stock,where-she-went-if-i-stay-2_417/index.html,41.73,4,High,Highly Rated,0,Premium Highly-Rated
+What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Â£53.68,Four,in stock,what-if-serious-scientific-answers-to-absurd-hypothetical-questions_416/index.html,53.68,4,High,Highly Rated,0,Premium Highly-Rated
+Two Summers,Â£14.64,One,in stock,two-summers_415/index.html,14.64,1,Low,Low Rated,2,Budget Low-Rated
+This Is Your Brain on Music: The Science of a Human Obsession,Â£38.40,One,in stock,this-is-your-brain-on-music-the-science-of-a-human-obsession_414/index.html,38.4,1,Medium,Low Rated,1,Premium Low-Rated
+The Secret Garden,Â£15.08,Four,in stock,the-secret-garden_413/index.html,15.08,4,Low,Highly Rated,3,Budget Highly-Rated
+The Raven King (The Raven Cycle #4),Â£30.57,Two,in stock,the-raven-king-the-raven-cycle-4_412/index.html,30.57,2,Medium,Low Rated,2,Budget Low-Rated
+The Raven Boys (The Raven Cycle #1),Â£57.74,Four,in stock,the-raven-boys-the-raven-cycle-1_411/index.html,57.74,4,High,Highly Rated,0,Premium Highly-Rated
+The Power Greens Cookbook: 140 Delicious Superfood Recipes,Â£11.05,Five,in stock,the-power-greens-cookbook-140-delicious-superfood-recipes_410/index.html,11.05,5,Low,Highly Rated,3,Budget Highly-Rated
+The Metamorphosis,Â£28.58,One,in stock,the-metamorphosis_409/index.html,28.58,1,Medium,Low Rated,2,Budget Low-Rated
+The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,Â£42.91,Five,in stock,the-mathews-men-seven-brothers-and-the-war-against-hitlers-u-boats_408/index.html,42.91,5,High,Highly Rated,0,Premium Highly-Rated
+The Little Paris Bookshop,Â£24.73,Three,in stock,the-little-paris-bookshop_407/index.html,24.73,3,Medium,Average,3,Budget Highly-Rated
+The Hiding Place,Â£55.91,Four,in stock,the-hiding-place_406/index.html,55.91,4,High,Highly Rated,0,Premium Highly-Rated
+The Grand Design,Â£13.76,Three,in stock,the-grand-design_405/index.html,13.76,3,Low,Average,3,Budget Highly-Rated
+The Firm,Â£45.56,Three,in stock,the-firm_404/index.html,45.56,3,High,Average,0,Premium Highly-Rated
+The Fault in Our Stars,Â£47.22,One,in stock,the-fault-in-our-stars_403/index.html,47.22,1,High,Low Rated,1,Premium Low-Rated
+The False Prince (The Ascendance Trilogy #1),Â£56.00,Five,in stock,the-false-prince-the-ascendance-trilogy-1_402/index.html,56.0,5,High,Highly Rated,0,Premium Highly-Rated
+The Expatriates,Â£44.58,Two,in stock,the-expatriates_401/index.html,44.58,2,High,Low Rated,1,Premium Low-Rated
+The Dream Thieves (The Raven Cycle #2),Â£34.50,One,in stock,the-dream-thieves-the-raven-cycle-2_400/index.html,34.5,1,Medium,Low Rated,1,Premium Low-Rated
+The Darkest Corners,Â£11.33,Five,in stock,the-darkest-corners_399/index.html,11.33,5,Low,Highly Rated,3,Budget Highly-Rated
+The Crossover,Â£38.77,Four,in stock,the-crossover_398/index.html,38.77,4,Medium,Highly Rated,0,Premium Highly-Rated
+The 5th Wave (The 5th Wave #1),Â£11.83,Two,in stock,the-5th-wave-the-5th-wave-1_397/index.html,11.83,2,Low,Low Rated,2,Budget Low-Rated
+Tell the Wind and Fire,Â£45.51,Three,in stock,tell-the-wind-and-fire_396/index.html,45.51,3,High,Average,0,Premium Highly-Rated
+Tell Me Three Things,Â£41.81,One,in stock,tell-me-three-things_395/index.html,41.81,1,High,Low Rated,1,Premium Low-Rated
+Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,Â£25.15,Four,in stock,talking-to-girls-about-duran-duran-one-young-mans-quest-for-true-love-and-a-cooler-haircut_394/index.html,25.15,4,Medium,Highly Rated,3,Budget Highly-Rated
+Siddhartha,Â£34.22,Five,in stock,siddhartha_393/index.html,34.22,5,Medium,Highly Rated,0,Premium Highly-Rated
+Shiver (The Wolves of Mercy Falls #1),Â£16.23,Five,in stock,shiver-the-wolves-of-mercy-falls-1_392/index.html,16.23,5,Low,Highly Rated,3,Budget Highly-Rated
+Remember Me?,Â£11.48,Three,in stock,remember-me_391/index.html,11.48,3,Low,Average,3,Budget Highly-Rated
+Red Dragon (Hannibal Lecter #1),Â£23.37,Three,in stock,red-dragon-hannibal-lecter-1_390/index.html,23.37,3,Medium,Average,3,Budget Highly-Rated
+Peak: Secrets from the New Science of Expertise,Â£16.28,Two,in stock,peak-secrets-from-the-new-science-of-expertise_389/index.html,16.28,2,Low,Low Rated,2,Budget Low-Rated
+My Mother Was Nuts,Â£31.63,Four,in stock,my-mother-was-nuts_388/index.html,31.63,4,Medium,Highly Rated,3,Budget Highly-Rated
+Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,Â£24.91,Five,in stock,mexican-today-new-and-rediscovered-recipes-for-contemporary-kitchens_387/index.html,24.91,5,Medium,Highly Rated,3,Budget Highly-Rated
+Maybe Something Beautiful: How Art Transformed a Neighborhood,Â£22.54,One,in stock,maybe-something-beautiful-how-art-transformed-a-neighborhood_386/index.html,22.54,1,Medium,Low Rated,2,Budget Low-Rated
+Lola and the Boy Next Door (Anna and the French Kiss #2),Â£23.63,Four,in stock,lola-and-the-boy-next-door-anna-and-the-french-kiss-2_385/index.html,23.63,4,Medium,Highly Rated,3,Budget Highly-Rated
+Logan Kade (Fallen Crest High #5.5),Â£13.12,Two,in stock,logan-kade-fallen-crest-high-55_384/index.html,13.12,2,Low,Low Rated,2,Budget Low-Rated
+Last One Home (New Beginnings #1),Â£59.98,Three,in stock,last-one-home-new-beginnings-1_383/index.html,59.98,3,High,Average,0,Premium Highly-Rated
+Killing Floor (Jack Reacher #1),Â£31.49,Four,in stock,killing-floor-jack-reacher-1_382/index.html,31.49,4,Medium,Highly Rated,3,Budget Highly-Rated
+Kill the Boy Band,Â£15.52,Five,in stock,kill-the-boy-band_381/index.html,15.52,5,Low,Highly Rated,3,Budget Highly-Rated
+Isla and the Happily Ever After (Anna and the French Kiss #3),Â£48.13,Five,in stock,isla-and-the-happily-ever-after-anna-and-the-french-kiss-3_380/index.html,48.13,5,High,Highly Rated,0,Premium Highly-Rated
+If I Stay (If I Stay #1),Â£38.13,Five,in stock,if-i-stay-if-i-stay-1_379/index.html,38.13,5,Medium,Highly Rated,0,Premium Highly-Rated
+I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),Â£36.55,Two,in stock,i-know-why-the-caged-bird-sings-maya-angelous-autobiography-1_378/index.html,36.55,2,Medium,Low Rated,1,Premium Low-Rated
+Harry Potter and the Deathly Hallows (Harry Potter #7),Â£23.32,One,in stock,harry-potter-and-the-deathly-hallows-harry-potter-7_377/index.html,23.32,1,Medium,Low Rated,2,Budget Low-Rated
+"Fruits Basket, Vol. 5 (Fruits Basket #5)",Â£16.33,One,in stock,fruits-basket-vol-5-fruits-basket-5_376/index.html,16.33,1,Low,Low Rated,2,Budget Low-Rated
+Foundation (Foundation (Publication Order) #1),Â£32.42,One,in stock,foundation-foundation-publication-order-1_375/index.html,32.42,1,Medium,Low Rated,2,Budget Low-Rated
+Fool Me Once,Â£16.96,One,in stock,fool-me-once_374/index.html,16.96,1,Low,Low Rated,2,Budget Low-Rated
+Find Her (Detective D.D. Warren #8),Â£22.37,One,in stock,find-her-detective-dd-warren-8_373/index.html,22.37,1,Medium,Low Rated,2,Budget Low-Rated
+Evicted: Poverty and Profit in the American City,Â£42.27,One,in stock,evicted-poverty-and-profit-in-the-american-city_372/index.html,42.27,1,High,Low Rated,1,Premium Low-Rated
+Drama,Â£38.70,Two,in stock,drama_371/index.html,38.7,2,Medium,Low Rated,1,Premium Low-Rated
+Dracula the Un-Dead,Â£35.63,Five,in stock,dracula-the-un-dead_370/index.html,35.63,5,Medium,Highly Rated,0,Premium Highly-Rated
+Digital Fortress,Â£58.00,Five,in stock,digital-fortress_369/index.html,58.0,5,High,Highly Rated,0,Premium Highly-Rated
+"Death Note, Vol. 5: Whiteout (Death Note #5)",Â£52.41,One,in stock,death-note-vol-5-whiteout-death-note-5_368/index.html,52.41,1,High,Low Rated,1,Premium Low-Rated
+"Data, A Love Story: How I Gamed Online Dating to Meet My Match",Â£32.35,Three,in stock,data-a-love-story-how-i-gamed-online-dating-to-meet-my-match_367/index.html,32.35,3,Medium,Average,3,Budget Highly-Rated
+Critique of Pure Reason,Â£20.75,One,in stock,critique-of-pure-reason_366/index.html,20.75,1,Medium,Low Rated,2,Budget Low-Rated
+Booked,Â£17.49,Five,in stock,booked_365/index.html,17.49,5,Low,Highly Rated,3,Budget Highly-Rated
+"Blue Lily, Lily Blue (The Raven Cycle #3)",Â£34.13,Five,in stock,blue-lily-lily-blue-the-raven-cycle-3_364/index.html,34.13,5,Medium,Highly Rated,0,Premium Highly-Rated
+Approval Junkie: Adventures in Caring Too Much,Â£58.81,Five,in stock,approval-junkie-adventures-in-caring-too-much_363/index.html,58.81,5,High,Highly Rated,0,Premium Highly-Rated
+An Abundance of Katherines,Â£10.00,Five,in stock,an-abundance-of-katherines_362/index.html,10.0,5,Low,Highly Rated,3,Budget Highly-Rated
+America's War for the Greater Middle East: A Military History,Â£51.22,Two,in stock,americas-war-for-the-greater-middle-east-a-military-history_361/index.html,51.22,2,High,Low Rated,1,Premium Low-Rated
+Alight (The Generations Trilogy #2),Â£58.59,Four,in stock,alight-the-generations-trilogy-2_360/index.html,58.59,4,High,Highly Rated,0,Premium Highly-Rated
+A Girl's Guide to Moving On (New Beginnings #2),Â£31.30,One,in stock,a-girls-guide-to-moving-on-new-beginnings-2_359/index.html,31.3,1,Medium,Low Rated,2,Budget Low-Rated
+A Game of Thrones (A Song of Ice and Fire #1),Â£46.42,Two,in stock,a-game-of-thrones-a-song-of-ice-and-fire-1_358/index.html,46.42,2,High,Low Rated,1,Premium Low-Rated
+A Feast for Crows (A Song of Ice and Fire #4),Â£17.21,Four,in stock,a-feast-for-crows-a-song-of-ice-and-fire-4_357/index.html,17.21,4,Low,Highly Rated,3,Budget Highly-Rated
+A Clash of Kings (A Song of Ice and Fire #2),Â£10.79,Three,in stock,a-clash-of-kings-a-song-of-ice-and-fire-2_356/index.html,10.79,3,Low,Average,3,Budget Highly-Rated
+Vogue Colors A to Z: A Fashion Coloring Book,Â£52.35,Four,in stock,vogue-colors-a-to-z-a-fashion-coloring-book_355/index.html,52.35,4,High,Highly Rated,0,Premium Highly-Rated
+The Shining (The Shining #1),Â£27.88,Three,in stock,the-shining-the-shining-1_354/index.html,27.88,3,Medium,Average,3,Budget Highly-Rated
+The Pilgrim's Progress,Â£50.26,Two,in stock,the-pilgrims-progress_353/index.html,50.26,2,High,Low Rated,1,Premium Low-Rated
+The Perfect Play (Play by Play #1),Â£59.99,Three,in stock,the-perfect-play-play-by-play-1_352/index.html,59.99,3,High,Average,0,Premium Highly-Rated
+The Passion of Dolssa,Â£28.32,Five,in stock,the-passion-of-dolssa_351/index.html,28.32,5,Medium,Highly Rated,3,Budget Highly-Rated
+The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,Â£38.71,Three,in stock,the-jazz-of-physics-the-secret-link-between-music-and-the-structure-of-the-universe_350/index.html,38.71,3,Medium,Average,0,Premium Highly-Rated
+The Hunger Games (The Hunger Games #1),Â£29.85,Five,in stock,the-hunger-games-the-hunger-games-1_349/index.html,29.85,5,Medium,Highly Rated,3,Budget Highly-Rated
+The Hound of the Baskervilles (Sherlock Holmes #5),Â£14.82,Two,in stock,the-hound-of-the-baskervilles-sherlock-holmes-5_348/index.html,14.82,2,Low,Low Rated,2,Budget Low-Rated
+The Gunning of America: Business and the Making of American Gun Culture,Â£16.81,Four,in stock,the-gunning-of-america-business-and-the-making-of-american-gun-culture_347/index.html,16.81,4,Low,Highly Rated,3,Budget Highly-Rated
+The Geography of Bliss: One Grump's Search for the Happiest Places in the World,Â£28.23,Two,in stock,the-geography-of-bliss-one-grumps-search-for-the-happiest-places-in-the-world_346/index.html,28.23,2,Medium,Low Rated,2,Budget Low-Rated
+The Demonists (Demonist #1),Â£52.11,Two,in stock,the-demonists-demonist-1_345/index.html,52.11,2,High,Low Rated,1,Premium Low-Rated
+"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",Â£27.88,Two,in stock,the-demon-prince-of-momochi-house-vol-4-the-demon-prince-of-momochi-house-4_344/index.html,27.88,2,Medium,Low Rated,2,Budget Low-Rated
+The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),Â£59.71,Three,in stock,the-bone-hunters-lexy-vaughan-steven-macaulay-2_343/index.html,59.71,3,High,Average,0,Premium Highly-Rated
+The Beast (Black Dagger Brotherhood #14),Â£46.08,Five,in stock,the-beast-black-dagger-brotherhood-14_342/index.html,46.08,5,High,Highly Rated,0,Premium Highly-Rated
+Some Women,Â£13.73,Five,in stock,some-women_341/index.html,13.73,5,Low,Highly Rated,3,Budget Highly-Rated
+Shopaholic Ties the Knot (Shopaholic #3),Â£48.39,Five,in stock,shopaholic-ties-the-knot-shopaholic-3_340/index.html,48.39,5,High,Highly Rated,0,Premium Highly-Rated
+Paper and Fire (The Great Library #2),Â£49.45,Five,in stock,paper-and-fire-the-great-library-2_339/index.html,49.45,5,High,Highly Rated,0,Premium Highly-Rated
+Outlander (Outlander #1),Â£19.67,Five,in stock,outlander-outlander-1_338/index.html,19.67,5,Low,Highly Rated,3,Budget Highly-Rated
+"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",Â£12.36,Three,in stock,orchestra-of-exiles-the-story-of-bronislaw-huberman-the-israel-philharmonic-and-the-one-thousand-jews-he-saved-from-nazi-horrors_337/index.html,12.36,3,Low,Average,3,Budget Highly-Rated
+No One Here Gets Out Alive,Â£20.02,Five,in stock,no-one-here-gets-out-alive_336/index.html,20.02,5,Medium,Highly Rated,3,Budget Highly-Rated
+Night Shift (Night Shift #1-20),Â£12.75,Four,in stock,night-shift-night-shift-1-20_335/index.html,12.75,4,Low,Highly Rated,3,Budget Highly-Rated
+Needful Things,Â£47.51,Four,in stock,needful-things_334/index.html,47.51,4,High,Highly Rated,0,Premium Highly-Rated
+Mockingjay (The Hunger Games #3),Â£20.44,Four,in stock,mockingjay-the-hunger-games-3_333/index.html,20.44,4,Medium,Highly Rated,3,Budget Highly-Rated
+Misery,Â£34.79,Two,in stock,misery_332/index.html,34.79,2,Medium,Low Rated,1,Premium Low-Rated
+Little Women (Little Women #1),Â£28.07,Four,in stock,little-women-little-women-1_331/index.html,28.07,4,Medium,Highly Rated,3,Budget Highly-Rated
+It,Â£25.01,Three,in stock,it_330/index.html,25.01,3,Medium,Average,3,Budget Highly-Rated
+Harry Potter and the Sorcerer's Stone (Harry Potter #1),Â£13.90,Three,in stock,harry-potter-and-the-sorcerers-stone-harry-potter-1_329/index.html,13.9,3,Low,Average,3,Budget Highly-Rated
+Harry Potter and the Prisoner of Azkaban (Harry Potter #3),Â£24.17,Four,in stock,harry-potter-and-the-prisoner-of-azkaban-harry-potter-3_328/index.html,24.17,4,Medium,Highly Rated,3,Budget Highly-Rated
+Harry Potter and the Order of the Phoenix (Harry Potter #5),Â£31.63,Four,in stock,harry-potter-and-the-order-of-the-phoenix-harry-potter-5_327/index.html,31.63,4,Medium,Highly Rated,3,Budget Highly-Rated
+Harry Potter and the Half-Blood Prince (Harry Potter #6),Â£48.75,Five,in stock,harry-potter-and-the-half-blood-prince-harry-potter-6_326/index.html,48.75,5,High,Highly Rated,0,Premium Highly-Rated
+Harry Potter and the Chamber of Secrets (Harry Potter #2),Â£14.74,One,in stock,harry-potter-and-the-chamber-of-secrets-harry-potter-2_325/index.html,14.74,1,Low,Low Rated,2,Budget Low-Rated
+Gone with the Wind,Â£32.49,Three,in stock,gone-with-the-wind_324/index.html,32.49,3,Medium,Average,3,Budget Highly-Rated
+God Is Not Great: How Religion Poisons Everything,Â£27.80,One,in stock,god-is-not-great-how-religion-poisons-everything_323/index.html,27.8,1,Medium,Low Rated,2,Budget Low-Rated
+Girl With a Pearl Earring,Â£26.77,One,in stock,girl-with-a-pearl-earring_322/index.html,26.77,1,Medium,Low Rated,2,Budget Low-Rated
+"Fruits Basket, Vol. 4 (Fruits Basket #4)",Â£50.44,Four,in stock,fruits-basket-vol-4-fruits-basket-4_321/index.html,50.44,4,High,Highly Rated,0,Premium Highly-Rated
+Far From True (Promise Falls Trilogy #2),Â£34.93,Two,in stock,far-from-true-promise-falls-trilogy-2_320/index.html,34.93,2,Medium,Low Rated,1,Premium Low-Rated
+Dark Lover (Black Dagger Brotherhood #1),Â£12.87,One,in stock,dark-lover-black-dagger-brotherhood-1_319/index.html,12.87,1,Low,Low Rated,2,Budget Low-Rated
+Confessions of a Shopaholic (Shopaholic #1),Â£48.94,Two,in stock,confessions-of-a-shopaholic-shopaholic-1_318/index.html,48.94,2,High,Low Rated,1,Premium Low-Rated
+Changing the Game (Play by Play #2),Â£13.38,Three,in stock,changing-the-game-play-by-play-2_317/index.html,13.38,3,Low,Average,3,Budget Highly-Rated
+Candide,Â£58.63,Three,in stock,candide_316/index.html,58.63,3,High,Average,0,Premium Highly-Rated
+Can You Keep a Secret?,Â£21.94,One,in stock,can-you-keep-a-secret_315/index.html,21.94,1,Medium,Low Rated,2,Budget Low-Rated
+Atlas Shrugged,Â£26.58,Five,in stock,atlas-shrugged_314/index.html,26.58,5,Medium,Highly Rated,3,Budget Highly-Rated
+Animal Farm,Â£57.22,Three,in stock,animal-farm_313/index.html,57.22,3,High,Average,0,Premium Highly-Rated
+A Walk to Remember,Â£56.43,One,in stock,a-walk-to-remember_312/index.html,56.43,1,High,Low Rated,1,Premium Low-Rated
+A New Earth: Awakening to Your Life's Purpose,Â£55.65,Five,in stock,a-new-earth-awakening-to-your-lifes-purpose_311/index.html,55.65,5,High,Highly Rated,0,Premium Highly-Rated
+"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",Â£27.62,One,in stock,a-history-of-god-the-4000-year-quest-of-judaism-christianity-and-islam_310/index.html,27.62,1,Medium,Low Rated,2,Budget Low-Rated
+'Salem's Lot,Â£49.56,Four,in stock,salems-lot_309/index.html,49.56,4,High,Highly Rated,0,Premium Highly-Rated
+Zero History (Blue Ant #3),Â£34.77,One,in stock,zero-history-blue-ant-3_308/index.html,34.77,1,Medium,Low Rated,1,Premium Low-Rated
+Wuthering Heights,Â£17.73,Three,in stock,wuthering-heights_307/index.html,17.73,3,Low,Average,3,Budget Highly-Rated
+World War Z: An Oral History of the Zombie War,Â£21.80,One,in stock,world-war-z-an-oral-history-of-the-zombie-war_306/index.html,21.8,1,Medium,Low Rated,2,Budget Low-Rated
+Wild: From Lost to Found on the Pacific Crest Trail,Â£46.02,Three,in stock,wild-from-lost-to-found-on-the-pacific-crest-trail_305/index.html,46.02,3,High,Average,0,Premium Highly-Rated
+"Where'd You Go, Bernadette",Â£18.13,One,in stock,whered-you-go-bernadette_304/index.html,18.13,1,Low,Low Rated,2,Budget Low-Rated
+When You Are Engulfed in Flames,Â£30.89,Five,in stock,when-you-are-engulfed-in-flames_303/index.html,30.89,5,Medium,Highly Rated,3,Budget Highly-Rated
+We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,Â£31.95,Three,in stock,we-the-people-the-modern-day-figures-who-have-reshaped-and-affirmed-the-founding-fathers-vision-of-america_302/index.html,31.95,3,Medium,Average,3,Budget Highly-Rated
+We Are All Completely Beside Ourselves,Â£24.04,One,in stock,we-are-all-completely-beside-ourselves_301/index.html,24.04,1,Medium,Low Rated,2,Budget Low-Rated
+Walk the Edge (Thunder Road #2),Â£32.36,Three,in stock,walk-the-edge-thunder-road-2_300/index.html,32.36,3,Medium,Average,3,Budget Highly-Rated
+Voyager (Outlander #3),Â£21.07,Five,in stock,voyager-outlander-3_299/index.html,21.07,5,Medium,Highly Rated,3,Budget Highly-Rated
+Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,Â£50.66,Three,in stock,very-good-lives-the-fringe-benefits-of-failure-and-the-importance-of-imagination_298/index.html,50.66,3,High,Average,0,Premium Highly-Rated
+Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,Â£13.66,Two,in stock,vegan-vegetarian-omnivore-dinner-for-everyone-at-the-table_297/index.html,13.66,2,Low,Low Rated,2,Budget Low-Rated
+"Unstuffed: Decluttering Your Home, Mind, and Soul",Â£58.09,One,in stock,unstuffed-decluttering-your-home-mind-and-soul_296/index.html,58.09,1,High,Low Rated,1,Premium Low-Rated
+Under the Banner of Heaven: A Story of Violent Faith,Â£30.00,One,in stock,under-the-banner-of-heaven-a-story-of-violent-faith_295/index.html,30.0,1,Medium,Low Rated,2,Budget Low-Rated
+Two Boys Kissing,Â£32.74,Two,in stock,two-boys-kissing_294/index.html,32.74,2,Medium,Low Rated,2,Budget Low-Rated
+Twilight (Twilight #1),Â£41.93,Two,in stock,twilight-twilight-1_293/index.html,41.93,2,High,Low Rated,1,Premium Low-Rated
+Twenties Girl,Â£42.80,Two,in stock,twenties-girl_292/index.html,42.8,2,High,Low Rated,1,Premium Low-Rated
+"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",Â£53.51,One,in stock,trespassing-across-america-one-mans-epic-never-done-before-and-sort-of-illegal-hike-across-the-heartland_291/index.html,53.51,1,High,Low Rated,1,Premium Low-Rated
+Three-Martini Lunch,Â£23.21,Three,in stock,three-martini-lunch_290/index.html,23.21,3,Medium,Average,3,Budget Highly-Rated
+"Thinking, Fast and Slow",Â£21.14,One,in stock,thinking-fast-and-slow_289/index.html,21.14,1,Medium,Low Rated,2,Budget Low-Rated
+The Wild Robot,Â£56.07,Three,in stock,the-wild-robot_288/index.html,56.07,3,High,Average,0,Premium Highly-Rated
+"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",Â£14.41,Three,in stock,the-wicked-the-divine-vol-3-commercial-suicide-the-wicked-the-divine_287/index.html,14.41,3,Low,Average,3,Budget Highly-Rated
+The Undomestic Goddess,Â£45.75,Four,in stock,the-undomestic-goddess_286/index.html,45.75,4,High,Highly Rated,0,Premium Highly-Rated
+The Travelers,Â£15.77,One,in stock,the-travelers_285/index.html,15.77,1,Low,Low Rated,2,Budget Low-Rated
+The Tipping Point: How Little Things Can Make a Big Difference,Â£10.02,Two,in stock,the-tipping-point-how-little-things-can-make-a-big-difference_284/index.html,10.02,2,Low,Low Rated,2,Budget Low-Rated
+The Thing About Jellyfish,Â£48.77,One,in stock,the-thing-about-jellyfish_283/index.html,48.77,1,High,Low Rated,1,Premium Low-Rated
+The Stand,Â£57.86,Two,in stock,the-stand_282/index.html,57.86,2,High,Low Rated,1,Premium Low-Rated
+The Smitten Kitchen Cookbook,Â£23.59,One,in stock,the-smitten-kitchen-cookbook_281/index.html,23.59,1,Medium,Low Rated,2,Budget Low-Rated
+The Silkworm (Cormoran Strike #2),Â£23.05,Five,in stock,the-silkworm-cormoran-strike-2_280/index.html,23.05,5,Medium,Highly Rated,3,Budget Highly-Rated
+"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",Â£55.55,Five,in stock,the-sandman-vol-3-dream-country-the-sandman-volumes-3_279/index.html,55.55,5,High,Highly Rated,0,Premium Highly-Rated
+The Rose & the Dagger (The Wrath and the Dawn #2),Â£58.64,Four,in stock,the-rose-the-dagger-the-wrath-and-the-dawn-2_278/index.html,58.64,4,High,Highly Rated,0,Premium Highly-Rated
+The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),Â£23.21,One,in stock,the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html,23.21,1,Medium,Low Rated,2,Budget Low-Rated
+The Rise of Theodore Roosevelt (Theodore Roosevelt #1),Â£42.57,Three,in stock,the-rise-of-theodore-roosevelt-theodore-roosevelt-1_276/index.html,42.57,3,High,Average,0,Premium Highly-Rated
+The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),Â£10.92,One,in stock,the-restaurant-at-the-end-of-the-universe-hitchhikers-guide-to-the-galaxy-2_275/index.html,10.92,1,Low,Low Rated,2,Budget Low-Rated
+The Rest Is Noise: Listening to the Twentieth Century,Â£34.77,One,in stock,the-rest-is-noise-listening-to-the-twentieth-century_274/index.html,34.77,1,Medium,Low Rated,1,Premium Low-Rated
+The Red Tent,Â£35.66,Five,in stock,the-red-tent_273/index.html,35.66,5,Medium,Highly Rated,0,Premium Highly-Rated
+The Purpose Driven Life: What on Earth Am I Here for?,Â£37.19,Three,in stock,the-purpose-driven-life-what-on-earth-am-i-here-for_272/index.html,37.19,3,Medium,Average,0,Premium Highly-Rated
+The Purest Hook (Second Circle Tattoos #3),Â£12.25,One,in stock,the-purest-hook-second-circle-tattoos-3_271/index.html,12.25,1,Low,Low Rated,2,Budget Low-Rated
+The Picture of Dorian Gray,Â£29.70,Two,in stock,the-picture-of-dorian-gray_270/index.html,29.7,2,Medium,Low Rated,2,Budget Low-Rated
+The Paris Wife,Â£36.80,Three,in stock,the-paris-wife_269/index.html,36.8,3,Medium,Average,0,Premium Highly-Rated
+The Obsession,Â£45.43,One,in stock,the-obsession_268/index.html,45.43,1,High,Low Rated,1,Premium Low-Rated
+The Nightingale,Â£26.26,Four,in stock,the-nightingale_267/index.html,26.26,4,Medium,Highly Rated,3,Budget Highly-Rated
+The New Guy (and Other Senior Year Distractions),Â£44.92,Three,in stock,the-new-guy-and-other-senior-year-distractions_266/index.html,44.92,3,High,Average,0,Premium Highly-Rated
+The Nanny Diaries (Nanny #1),Â£52.53,Five,in stock,the-nanny-diaries-nanny-1_265/index.html,52.53,5,High,Highly Rated,0,Premium Highly-Rated
+The Name of God is Mercy,Â£37.25,Two,in stock,the-name-of-god-is-mercy_264/index.html,37.25,2,Medium,Low Rated,1,Premium Low-Rated
+The Maze Runner (The Maze Runner #1),Â£20.93,One,in stock,the-maze-runner-the-maze-runner-1_263/index.html,20.93,1,Medium,Low Rated,2,Budget Low-Rated
+The Lover's Dictionary,Â£58.09,Two,in stock,the-lovers-dictionary_262/index.html,58.09,2,High,Low Rated,1,Premium Low-Rated
+The Lonely Ones,Â£43.59,Five,in stock,the-lonely-ones_261/index.html,43.59,5,High,Highly Rated,0,Premium Highly-Rated
+The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,Â£33.92,Three,in stock,the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses_260/index.html,33.92,3,Medium,Average,3,Budget Highly-Rated
+The Last Painting of Sara de Vos,Â£55.55,Two,in stock,the-last-painting-of-sara-de-vos_259/index.html,55.55,2,High,Low Rated,1,Premium Low-Rated
+"The Land of 10,000 Madonnas",Â£29.64,Four,in stock,the-land-of-10000-madonnas_258/index.html,29.64,4,Medium,Highly Rated,3,Budget Highly-Rated
+The Infinities,Â£27.41,One,in stock,the-infinities_257/index.html,27.41,1,Medium,Low Rated,2,Budget Low-Rated
+The Husband's Secret,Â£52.51,Five,in stock,the-husbands-secret_256/index.html,52.51,5,High,Highly Rated,0,Premium Highly-Rated
+The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),Â£47.80,Three,in stock,the-hitchhikers-guide-to-the-galaxy-hitchhikers-guide-to-the-galaxy-1_255/index.html,47.8,3,High,Average,0,Premium Highly-Rated
+The Guns of August,Â£14.54,Two,in stock,the-guns-of-august_254/index.html,14.54,2,Low,Low Rated,2,Budget Low-Rated
+The Guernsey Literary and Potato Peel Pie Society,Â£49.53,One,in stock,the-guernsey-literary-and-potato-peel-pie-society_253/index.html,49.53,1,High,Low Rated,1,Premium Low-Rated
+The Goldfinch,Â£43.58,Three,in stock,the-goldfinch_252/index.html,43.58,3,High,Average,0,Premium Highly-Rated
+The Giver (The Giver Quartet #1),Â£12.30,One,in stock,the-giver-the-giver-quartet-1_251/index.html,12.3,1,Low,Low Rated,2,Budget Low-Rated
+The Girl with All the Gifts,Â£49.47,Three,in stock,the-girl-with-all-the-gifts_250/index.html,49.47,3,High,Average,0,Premium Highly-Rated
+The Girl Who Played with Fire (Millennium Trilogy #2),Â£22.14,Two,in stock,the-girl-who-played-with-fire-millennium-trilogy-2_249/index.html,22.14,2,Medium,Low Rated,2,Budget Low-Rated
+The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),Â£57.48,One,in stock,the-girl-who-kicked-the-hornets-nest-millennium-trilogy-3_248/index.html,57.48,1,High,Low Rated,1,Premium Low-Rated
+The Exiled,Â£43.45,Three,in stock,the-exiled_247/index.html,43.45,3,High,Average,0,Premium Highly-Rated
+"The End of Faith: Religion, Terror, and the Future of Reason",Â£22.13,Four,in stock,the-end-of-faith-religion-terror-and-the-future-of-reason_246/index.html,22.13,4,Medium,Highly Rated,3,Budget Highly-Rated
+"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Â£13.03,Four,in stock,the-elegant-universe-superstrings-hidden-dimensions-and-the-quest-for-the-ultimate-theory_245/index.html,13.03,4,Low,Highly Rated,3,Budget Highly-Rated
+"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",Â£57.35,Five,in stock,the-disappearing-spoon-and-other-true-tales-of-madness-love-and-the-history-of-the-world-from-the-periodic-table-of-the-elements_244/index.html,57.35,5,High,Highly Rated,0,Premium Highly-Rated
+The Devil Wears Prada (The Devil Wears Prada #1),Â£44.29,One,in stock,the-devil-wears-prada-the-devil-wears-prada-1_243/index.html,44.29,1,High,Low Rated,1,Premium Low-Rated
+The Demon-Haunted World: Science as a Candle in the Dark,Â£52.25,Four,in stock,the-demon-haunted-world-science-as-a-candle-in-the-dark_242/index.html,52.25,4,High,Highly Rated,0,Premium Highly-Rated
+The Day the Crayons Came Home (Crayons),Â£26.33,Five,in stock,the-day-the-crayons-came-home-crayons_241/index.html,26.33,5,Medium,Highly Rated,3,Budget Highly-Rated
+The Da Vinci Code (Robert Langdon #2),Â£22.96,Two,in stock,the-da-vinci-code-robert-langdon-2_240/index.html,22.96,2,Medium,Low Rated,2,Budget Low-Rated
+The Cuckoo's Calling (Cormoran Strike #1),Â£19.21,One,in stock,the-cuckoos-calling-cormoran-strike-1_239/index.html,19.21,1,Low,Low Rated,2,Budget Low-Rated
+The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),Â£26.78,Four,in stock,the-complete-stories-and-poems-the-works-of-edgar-allan-poe-cameo-edition_238/index.html,26.78,4,Medium,Highly Rated,3,Budget Highly-Rated
+The Complete Poems,Â£41.32,Five,in stock,the-complete-poems_237/index.html,41.32,5,High,Highly Rated,0,Premium Highly-Rated
+The Catcher in the Rye,Â£24.55,One,in stock,the-catcher-in-the-rye_236/index.html,24.55,1,Medium,Low Rated,2,Budget Low-Rated
+The Cat in the Hat (Beginner Books B-1),Â£16.26,Two,in stock,the-cat-in-the-hat-beginner-books-b-1_235/index.html,16.26,2,Low,Low Rated,2,Budget Low-Rated
+The Case for Christ (Cases for Christianity),Â£47.84,One,in stock,the-case-for-christ-cases-for-christianity_234/index.html,47.84,1,High,Low Rated,1,Premium Low-Rated
+The Book Thief,Â£53.49,Two,in stock,the-book-thief_233/index.html,53.49,2,High,Low Rated,1,Premium Low-Rated
+The Book of Basketball: The NBA According to The Sports Guy,Â£44.84,Five,in stock,the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html,44.84,5,High,Highly Rated,0,Premium Highly-Rated
+The Blind Side: Evolution of a Game,Â£53.71,Five,in stock,the-blind-side-evolution-of-a-game_231/index.html,53.71,5,High,Highly Rated,0,Premium Highly-Rated
+The Autobiography of Malcolm X,Â£23.43,Two,in stock,the-autobiography-of-malcolm-x_230/index.html,23.43,2,Medium,Low Rated,2,Budget Low-Rated
+"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",Â£34.32,Three,in stock,the-art-of-simple-food-notes-lessons-and-recipes-from-a-delicious-revolution_229/index.html,34.32,3,Medium,Average,3,Budget Highly-Rated
+The Art of Fielding,Â£22.10,One,in stock,the-art-of-fielding_228/index.html,22.1,1,Medium,Low Rated,2,Budget Low-Rated
+"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",Â£25.83,Two,in stock,surely-youre-joking-mr-feynman-adventures-of-a-curious-character_227/index.html,25.83,2,Medium,Low Rated,2,Budget Low-Rated
+Stiff: The Curious Lives of Human Cadavers,Â£36.74,Three,in stock,stiff-the-curious-lives-of-human-cadavers_226/index.html,36.74,3,Medium,Average,0,Premium Highly-Rated
+Spilled Milk: Based on a True Story,Â£49.51,One,in stock,spilled-milk-based-on-a-true-story_225/index.html,49.51,1,High,Low Rated,1,Premium Low-Rated
+Something Borrowed (Darcy & Rachel #1),Â£48.96,Five,in stock,something-borrowed-darcy-rachel-1_224/index.html,48.96,5,High,Highly Rated,0,Premium Highly-Rated
+Something Blue (Darcy & Rachel #2),Â£54.62,One,in stock,something-blue-darcy-rachel-2_223/index.html,54.62,1,High,Low Rated,1,Premium Low-Rated
+Soldier (Talon #3),Â£24.72,Two,in stock,soldier-talon-3_222/index.html,24.72,2,Medium,Low Rated,2,Budget Low-Rated
+Shopaholic & Baby (Shopaholic #5),Â£46.45,Two,in stock,shopaholic-baby-shopaholic-5_221/index.html,46.45,2,High,Low Rated,1,Premium Low-Rated
+Seven Days in the Art World,Â£52.33,Two,in stock,seven-days-in-the-art-world_220/index.html,52.33,2,High,Low Rated,1,Premium Low-Rated
+Seven Brief Lessons on Physics,Â£30.60,Four,in stock,seven-brief-lessons-on-physics_219/index.html,30.6,4,Medium,Highly Rated,3,Budget Highly-Rated
+Scarlet (The Lunar Chronicles #2),Â£14.57,Four,in stock,scarlet-the-lunar-chronicles-2_218/index.html,14.57,4,Low,Highly Rated,3,Budget Highly-Rated
+Sarah's Key,Â£46.29,One,in stock,sarahs-key_217/index.html,46.29,1,High,Low Rated,1,Premium Low-Rated
+"Saga, Volume 3 (Saga (Collected Editions) #3)",Â£21.57,Five,in stock,saga-volume-3-saga-collected-editions-3_216/index.html,21.57,5,Medium,Highly Rated,3,Budget Highly-Rated
+Running with Scissors,Â£12.91,Four,in stock,running-with-scissors_215/index.html,12.91,4,Low,Highly Rated,3,Budget Highly-Rated
+Rogue Lawyer (Rogue Lawyer #1),Â£50.11,Three,in stock,rogue-lawyer-rogue-lawyer-1_214/index.html,50.11,3,High,Average,0,Premium Highly-Rated
+"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",Â£41.67,Four,in stock,rise-of-the-rocket-girls-the-women-who-propelled-us-from-missiles-to-the-moon-to-mars_213/index.html,41.67,4,High,Highly Rated,0,Premium Highly-Rated
+Rework,Â£44.88,Two,in stock,rework_212/index.html,44.88,2,High,Low Rated,1,Premium Low-Rated
+Reservations for Two,Â£11.10,Three,in stock,reservations-for-two_211/index.html,11.1,3,Low,Average,3,Budget Highly-Rated
+Red: The True Story of Red Riding Hood,Â£28.54,Three,in stock,red-the-true-story-of-red-riding-hood_210/index.html,28.54,3,Medium,Average,3,Budget Highly-Rated
+Ready Player One,Â£19.07,Four,in stock,ready-player-one_209/index.html,19.07,4,Low,Highly Rated,3,Budget Highly-Rated
+Quiet: The Power of Introverts in a World That Can't Stop Talking,Â£43.55,One,in stock,quiet-the-power-of-introverts-in-a-world-that-cant-stop-talking_208/index.html,43.55,1,High,Low Rated,1,Premium Low-Rated
+Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),Â£43.63,Three,in stock,prodigy-the-graphic-novel-legend-the-graphic-novel-2_207/index.html,43.63,3,High,Average,0,Premium Highly-Rated
+Persepolis: The Story of a Childhood (Persepolis #1-2),Â£39.13,One,in stock,persepolis-the-story-of-a-childhood-persepolis-1-2_206/index.html,39.13,1,Medium,Low Rated,1,Premium Low-Rated
+Packing for Mars: The Curious Science of Life in the Void,Â£56.68,Two,in stock,packing-for-mars-the-curious-science-of-life-in-the-void_205/index.html,56.68,2,High,Low Rated,1,Premium Low-Rated
+Outliers: The Story of Success,Â£14.16,One,in stock,outliers-the-story-of-success_204/index.html,14.16,1,Low,Low Rated,2,Budget Low-Rated
+Original Fake,Â£31.45,Three,in stock,original-fake_203/index.html,31.45,3,Medium,Average,3,Budget Highly-Rated
+Orange Is the New Black,Â£24.61,Two,in stock,orange-is-the-new-black_202/index.html,24.61,2,Medium,Low Rated,2,Budget Low-Rated
+One for the Money (Stephanie Plum #1),Â£32.87,Two,in stock,one-for-the-money-stephanie-plum-1_201/index.html,32.87,2,Medium,Low Rated,2,Budget Low-Rated
+Notes from a Small Island (Notes From a Small Island #1),Â£40.17,One,in stock,notes-from-a-small-island-notes-from-a-small-island-1_200/index.html,40.17,1,High,Low Rated,1,Premium Low-Rated
+Night (The Night Trilogy #1),Â£13.51,One,in stock,night-the-night-trilogy-1_199/index.html,13.51,1,Low,Low Rated,2,Budget Low-Rated
+Neither Here nor There: Travels in Europe,Â£38.95,Three,in stock,neither-here-nor-there-travels-in-europe_198/index.html,38.95,3,Medium,Average,0,Premium Highly-Rated
+Naked,Â£31.69,Three,in stock,naked_197/index.html,31.69,3,Medium,Average,3,Budget Highly-Rated
+Morning Star (Red Rising #3),Â£29.40,One,in stock,morning-star-red-rising-3_196/index.html,29.4,1,Medium,Low Rated,2,Budget Low-Rated
+"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",Â£57.83,One,in stock,miracles-from-heaven-a-little-girl-her-journey-to-heaven-and-her-amazing-story-of-healing_195/index.html,57.83,1,High,Low Rated,1,Premium Low-Rated
+Midnight Riot (Peter Grant/ Rivers of London - books #1),Â£55.46,Two,in stock,midnight-riot-peter-grant-rivers-of-london-books-1_194/index.html,55.46,2,High,Low Rated,1,Premium Low-Rated
+Me Talk Pretty One Day,Â£57.60,Two,in stock,me-talk-pretty-one-day_193/index.html,57.6,2,High,Low Rated,1,Premium Low-Rated
+Manuscript Found in Accra,Â£34.98,Two,in stock,manuscript-found-in-accra_192/index.html,34.98,2,Medium,Low Rated,1,Premium Low-Rated
+Lust & Wonder,Â£11.87,Two,in stock,lust-wonder_191/index.html,11.87,2,Low,Low Rated,2,Budget Low-Rated
+Lila (Gilead #3),Â£12.47,Three,in stock,lila-gilead-3_190/index.html,12.47,3,Low,Average,3,Budget Highly-Rated
+"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",Â£33.26,Two,in stock,life-the-universe-and-everything-hitchhikers-guide-to-the-galaxy-3_189/index.html,33.26,2,Medium,Low Rated,2,Budget Low-Rated
+Life Without a Recipe,Â£59.04,Five,in stock,life-without-a-recipe_188/index.html,59.04,5,High,Highly Rated,0,Premium Highly-Rated
+Life After Life,Â£26.13,Two,in stock,life-after-life_187/index.html,26.13,2,Medium,Low Rated,2,Budget Low-Rated
+Letter to a Christian Nation,Â£22.20,One,in stock,letter-to-a-christian-nation_186/index.html,22.2,1,Medium,Low Rated,2,Budget Low-Rated
+Let's Pretend This Never Happened: A Mostly True Memoir,Â£45.11,One,in stock,lets-pretend-this-never-happened-a-mostly-true-memoir_185/index.html,45.11,1,High,Low Rated,1,Premium Low-Rated
+Legend (Legend #1),Â£43.69,Four,in stock,legend-legend-1_184/index.html,43.69,4,High,Highly Rated,0,Premium Highly-Rated
+"Lean In: Women, Work, and the Will to Lead",Â£25.02,One,in stock,lean-in-women-work-and-the-will-to-lead_183/index.html,25.02,1,Medium,Low Rated,2,Budget Low-Rated
+"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Â£55.50,Five,in stock,lamb-the-gospel-according-to-biff-christs-childhood-pal_182/index.html,55.5,5,High,Highly Rated,0,Premium Highly-Rated
+Lady Renegades (Rebel Belle #3),Â£53.04,Five,in stock,lady-renegades-rebel-belle-3_181/index.html,53.04,5,High,Highly Rated,0,Premium Highly-Rated
+Jurassic Park (Jurassic Park #1),Â£44.97,One,in stock,jurassic-park-jurassic-park-1_180/index.html,44.97,1,High,Low Rated,1,Premium Low-Rated
+It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,Â£42.38,One,in stock,its-never-too-late-to-begin-again-discovering-creativity-and-meaning-at-midlife-and-beyond_179/index.html,42.38,1,High,Low Rated,1,Premium Low-Rated
+Is Everyone Hanging Out Without Me? (And Other Concerns),Â£20.11,Three,in stock,is-everyone-hanging-out-without-me-and-other-concerns_178/index.html,20.11,3,Medium,Average,3,Budget Highly-Rated
+Into the Wild,Â£56.70,Five,in stock,into-the-wild_177/index.html,56.7,5,High,Highly Rated,0,Premium Highly-Rated
+Inferno (Robert Langdon #4),Â£41.00,Five,in stock,inferno-robert-langdon-4_176/index.html,41.0,5,High,Highly Rated,0,Premium Highly-Rated
+"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Â£28.85,Three,in stock,in-the-garden-of-beasts-love-terror-and-an-american-family-in-hitlers-berlin_175/index.html,28.85,3,Medium,Average,3,Budget Highly-Rated
+If I Run (If I Run #1),Â£49.97,Four,in stock,if-i-run-if-i-run-1_174/index.html,49.97,4,High,Highly Rated,0,Premium Highly-Rated
+I've Got Your Number,Â£19.69,One,in stock,ive-got-your-number_173/index.html,19.69,1,Low,Low Rated,2,Budget Low-Rated
+I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,Â£28.88,Two,in stock,i-am-malala-the-girl-who-stood-up-for-education-and-was-shot-by-the-taliban_172/index.html,28.88,2,Medium,Low Rated,2,Budget Low-Rated
+Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,Â£33.14,Three,in stock,hungry-girl-clean-hungry-easy-all-natural-recipes-for-healthy-eating-in-the-real-world_171/index.html,33.14,3,Medium,Average,3,Budget Highly-Rated
+"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",Â£43.70,Two,in stock,house-of-lost-worlds-dinosaurs-dynasties-and-the-story-of-life-on-earth_170/index.html,43.7,2,High,Low Rated,1,Premium Low-Rated
+House of Leaves,Â£54.89,One,in stock,house-of-leaves_169/index.html,54.89,1,High,Low Rated,1,Premium Low-Rated
+Horrible Bear!,Â£37.52,Two,in stock,horrible-bear_168/index.html,37.52,2,Medium,Low Rated,1,Premium Low-Rated
+Holidays on Ice,Â£51.07,Two,in stock,holidays-on-ice_167/index.html,51.07,2,High,Low Rated,1,Premium Low-Rated
+Heir to the Sky,Â£44.07,Four,in stock,heir-to-the-sky_166/index.html,44.07,4,High,Highly Rated,0,Premium Highly-Rated
+Green Eggs and Ham (Beginner Books B-16),Â£10.79,Four,in stock,green-eggs-and-ham-beginner-books-b-16_165/index.html,10.79,4,Low,Highly Rated,3,Budget Highly-Rated
+"Grayson, Vol 3: Nemesis (Grayson #3)",Â£42.72,One,in stock,grayson-vol-3-nemesis-grayson-3_164/index.html,42.72,1,High,Low Rated,1,Premium Low-Rated
+Gratitude,Â£26.66,Five,in stock,gratitude_163/index.html,26.66,5,Medium,Highly Rated,3,Budget Highly-Rated
+Gone Girl,Â£37.60,Five,in stock,gone-girl_162/index.html,37.6,5,Medium,Highly Rated,0,Premium Highly-Rated
+Golden (Heart of Dread #3),Â£42.21,Four,in stock,golden-heart-of-dread-3_161/index.html,42.21,4,High,Highly Rated,0,Premium Highly-Rated
+Girl in the Blue Coat,Â£46.83,Two,in stock,girl-in-the-blue-coat_160/index.html,46.83,2,High,Low Rated,1,Premium Low-Rated
+"Fruits Basket, Vol. 3 (Fruits Basket #3)",Â£45.17,Two,in stock,fruits-basket-vol-3-fruits-basket-3_159/index.html,45.17,2,High,Low Rated,1,Premium Low-Rated
+"Friday Night Lights: A Town, a Team, and a Dream",Â£51.22,Three,in stock,friday-night-lights-a-town-a-team-and-a-dream_158/index.html,51.22,3,High,Average,0,Premium Highly-Rated
+Fire Bound (Sea Haven/Sisters of the Heart #5),Â£21.28,Four,in stock,fire-bound-sea-havensisters-of-the-heart-5_157/index.html,21.28,4,Medium,Highly Rated,3,Budget Highly-Rated
+Fifty Shades Freed (Fifty Shades #3),Â£15.36,Five,in stock,fifty-shades-freed-fifty-shades-3_156/index.html,15.36,5,Low,Highly Rated,3,Budget Highly-Rated
+Fellside,Â£38.62,One,in stock,fellside_155/index.html,38.62,1,Medium,Low Rated,1,Premium Low-Rated
+Extreme Prey (Lucas Davenport #26),Â£25.40,Three,in stock,extreme-prey-lucas-davenport-26_154/index.html,25.4,3,Medium,Average,3,Budget Highly-Rated
+Eragon (The Inheritance Cycle #1),Â£43.87,Three,in stock,eragon-the-inheritance-cycle-1_153/index.html,43.87,3,High,Average,0,Premium Highly-Rated
+Eclipse (Twilight #3),Â£18.74,One,in stock,eclipse-twilight-3_152/index.html,18.74,1,Low,Low Rated,2,Budget Low-Rated
+Dune (Dune #1),Â£54.86,One,in stock,dune-dune-1_151/index.html,54.86,1,High,Low Rated,1,Premium Low-Rated
+Dracula,Â£52.62,Three,in stock,dracula_150/index.html,52.62,3,High,Average,0,Premium Highly-Rated
+Do Androids Dream of Electric Sheep? (Blade Runner #1),Â£51.48,One,in stock,do-androids-dream-of-electric-sheep-blade-runner-1_149/index.html,51.48,1,High,Low Rated,1,Premium Low-Rated
+Disrupted: My Misadventure in the Start-Up Bubble,Â£15.28,Five,in stock,disrupted-my-misadventure-in-the-start-up-bubble_148/index.html,15.28,5,Low,Highly Rated,3,Budget Highly-Rated
+Dead Wake: The Last Crossing of the Lusitania,Â£39.24,Five,in stock,dead-wake-the-last-crossing-of-the-lusitania_147/index.html,39.24,5,Medium,Highly Rated,0,Premium Highly-Rated
+"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",Â£17.81,One,in stock,david-and-goliath-underdogs-misfits-and-the-art-of-battling-giants_146/index.html,17.81,1,Low,Low Rated,2,Budget Low-Rated
+Darkfever (Fever #1),Â£56.02,One,in stock,darkfever-fever-1_145/index.html,56.02,1,High,Low Rated,1,Premium Low-Rated
+Dark Places,Â£23.90,Five,in stock,dark-places_144/index.html,23.9,5,Medium,Highly Rated,3,Budget Highly-Rated
+Crazy Rich Asians (Crazy Rich Asians #1),Â£49.13,Five,in stock,crazy-rich-asians-crazy-rich-asians-1_143/index.html,49.13,5,High,Highly Rated,0,Premium Highly-Rated
+Counting Thyme,Â£10.62,One,in stock,counting-thyme_142/index.html,10.62,1,Low,Low Rated,2,Budget Low-Rated
+Cosmos,Â£36.17,Two,in stock,cosmos_141/index.html,36.17,2,Medium,Low Rated,1,Premium Low-Rated
+Civilization and Its Discontents,Â£59.95,Two,in stock,civilization-and-its-discontents_140/index.html,59.95,2,High,Low Rated,1,Premium Low-Rated
+Cinder (The Lunar Chronicles #1),Â£26.09,One,in stock,cinder-the-lunar-chronicles-1_139/index.html,26.09,1,Medium,Low Rated,2,Budget Low-Rated
+Catastrophic Happiness: Finding Joy in Childhood's Messy Years,Â£37.35,Two,in stock,catastrophic-happiness-finding-joy-in-childhoods-messy-years_138/index.html,37.35,2,Medium,Low Rated,1,Premium Low-Rated
+Career of Evil (Cormoran Strike #3),Â£24.72,Two,in stock,career-of-evil-cormoran-strike-3_137/index.html,24.72,2,Medium,Low Rated,2,Budget Low-Rated
+Breaking Dawn (Twilight #4),Â£35.28,Five,in stock,breaking-dawn-twilight-4_136/index.html,35.28,5,Medium,Highly Rated,0,Premium Highly-Rated
+Brave Enough,Â£51.32,Five,in stock,brave-enough_135/index.html,51.32,5,High,Highly Rated,0,Premium Highly-Rated
+Boy Meets Boy,Â£21.12,Three,in stock,boy-meets-boy_134/index.html,21.12,3,Medium,Average,3,Budget Highly-Rated
+"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",Â£27.35,Two,in stock,born-to-run-a-hidden-tribe-superathletes-and-the-greatest-race-the-world-has-never-seen_133/index.html,27.35,2,Medium,Low Rated,2,Budget Low-Rated
+Blink: The Power of Thinking Without Thinking,Â£21.74,Five,in stock,blink-the-power-of-thinking-without-thinking_132/index.html,21.74,5,Medium,Highly Rated,3,Budget Highly-Rated
+Black Flags: The Rise of ISIS,Â£40.87,One,in stock,black-flags-the-rise-of-isis_131/index.html,40.87,1,High,Low Rated,1,Premium Low-Rated
+"Black Butler, Vol. 1 (Black Butler #1)",Â£49.31,One,in stock,black-butler-vol-1-black-butler-1_130/index.html,49.31,1,High,Low Rated,1,Premium Low-Rated
+Big Little Lies,Â£22.11,One,in stock,big-little-lies_129/index.html,22.11,1,Medium,Low Rated,2,Budget Low-Rated
+Between Shades of Gray,Â£20.79,Five,in stock,between-shades-of-gray_128/index.html,20.79,5,Medium,Highly Rated,3,Budget Highly-Rated
+Best of My Love (Fool's Gold #20),Â£27.41,Two,in stock,best-of-my-love-fools-gold-20_127/index.html,27.41,2,Medium,Low Rated,2,Budget Low-Rated
+Beowulf,Â£38.35,Two,in stock,beowulf_126/index.html,38.35,2,Medium,Low Rated,1,Premium Low-Rated
+Beautiful Creatures (Caster Chronicles #1),Â£21.55,Five,in stock,beautiful-creatures-caster-chronicles-1_125/index.html,21.55,5,Medium,Highly Rated,3,Budget Highly-Rated
+Awkward,Â£38.02,Two,in stock,awkward_124/index.html,38.02,2,Medium,Low Rated,1,Premium Low-Rated
+Ash,Â£22.06,Four,in stock,ash_123/index.html,22.06,4,Medium,Highly Rated,3,Budget Highly-Rated
+Are We There Yet?,Â£10.66,Three,in stock,are-we-there-yet_122/index.html,10.66,3,Low,Average,3,Budget Highly-Rated
+Are We Smart Enough to Know How Smart Animals Are?,Â£56.58,One,in stock,are-we-smart-enough-to-know-how-smart-animals-are_121/index.html,56.58,1,High,Low Rated,1,Premium Low-Rated
+Annie on My Mind,Â£36.83,Five,in stock,annie-on-my-mind_120/index.html,36.83,5,Medium,Highly Rated,0,Premium Highly-Rated
+And Then There Were None,Â£35.01,Two,in stock,and-then-there-were-none_119/index.html,35.01,2,Medium,Low Rated,1,Premium Low-Rated
+A Walk in the Woods: Rediscovering America on the Appalachian Trail,Â£30.48,Four,in stock,a-walk-in-the-woods-rediscovering-america-on-the-appalachian-trail_118/index.html,30.48,4,Medium,Highly Rated,3,Budget Highly-Rated
+A Visit from the Goon Squad,Â£14.08,Five,in stock,a-visit-from-the-goon-squad_117/index.html,14.08,5,Low,Highly Rated,3,Budget Highly-Rated
+A Storm of Swords (A Song of Ice and Fire #3),Â£31.22,Two,in stock,a-storm-of-swords-a-song-of-ice-and-fire-3_116/index.html,31.22,2,Medium,Low Rated,2,Budget Low-Rated
+A Heartbreaking Work of Staggering Genius,Â£54.29,Five,in stock,a-heartbreaking-work-of-staggering-genius_115/index.html,54.29,5,High,Highly Rated,0,Premium Highly-Rated
+8 Keys to Mental Health Through Exercise,Â£31.04,One,in stock,8-keys-to-mental-health-through-exercise_114/index.html,31.04,1,Medium,Low Rated,2,Budget Low-Rated
+#GIRLBOSS,Â£50.96,One,in stock,girlboss_113/index.html,50.96,1,High,Low Rated,1,Premium Low-Rated
+"The Suffragettes (Little Black Classics, #96)",Â£11.89,Two,in stock,the-suffragettes-little-black-classics-96_112/index.html,11.89,2,Low,Low Rated,2,Budget Low-Rated
+The Sense of an Ending,Â£31.38,Three,in stock,the-sense-of-an-ending_111/index.html,31.38,3,Medium,Average,3,Budget Highly-Rated
+"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",Â£54.81,One,in stock,the-sandman-vol-2-the-dolls-house-the-sandman-volumes-2_110/index.html,54.81,1,High,Low Rated,1,Premium Low-Rated
+The Course of Love,Â£16.78,Three,in stock,the-course-of-love_109/index.html,16.78,3,Low,Average,3,Budget Highly-Rated
+Sugar Rush (Offensive Line #2),Â£24.42,One,in stock,sugar-rush-offensive-line-2_108/index.html,24.42,1,Medium,Low Rated,2,Budget Low-Rated
+"Saga, Volume 2 (Saga (Collected Editions) #2)",Â£11.75,Three,in stock,saga-volume-2-saga-collected-editions-2_107/index.html,11.75,3,Low,Average,3,Budget Highly-Rated
+"Run, Spot, Run: The Ethics of Keeping Pets",Â£20.02,One,in stock,run-spot-run-the-ethics-of-keeping-pets_106/index.html,20.02,1,Medium,Low Rated,2,Budget Low-Rated
+New Moon (Twilight #2),Â£12.86,Four,in stock,new-moon-twilight-2_105/index.html,12.86,4,Low,Highly Rated,3,Budget Highly-Rated
+Life,Â£31.58,Five,in stock,life_104/index.html,31.58,5,Medium,Highly Rated,3,Budget Highly-Rated
+Kindle Paperwhite User's Guide,Â£34.00,Three,in stock,kindle-paperwhite-users-guide_103/index.html,34.0,3,Medium,Average,3,Budget Highly-Rated
+H is for Hawk,Â£57.42,Five,in stock,h-is-for-hawk_102/index.html,57.42,5,High,Highly Rated,0,Premium Highly-Rated
+Girl Online On Tour (Girl Online #2),Â£53.47,One,in stock,girl-online-on-tour-girl-online-2_101/index.html,53.47,1,High,Low Rated,1,Premium Low-Rated
+"Fruits Basket, Vol. 2 (Fruits Basket #2)",Â£11.64,Five,in stock,fruits-basket-vol-2-fruits-basket-2_100/index.html,11.64,5,Low,Highly Rated,3,Budget Highly-Rated
+Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),Â£52.88,Four,in stock,diary-of-a-minecraft-zombie-book-1-a-scare-of-a-dare-an-unofficial-minecraft-book_99/index.html,52.88,4,High,Highly Rated,0,Premium Highly-Rated
+"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",Â£18.51,Four,in stock,y-the-last-man-vol-1-unmanned-y-the-last-man-1_98/index.html,18.51,4,Low,Highly Rated,3,Budget Highly-Rated
+While You Were Mine,Â£41.32,Five,in stock,while-you-were-mine_97/index.html,41.32,5,High,Highly Rated,0,Premium Highly-Rated
+Where Lightning Strikes (Bleeding Stars #3),Â£39.77,Three,in stock,where-lightning-strikes-bleeding-stars-3_96/index.html,39.77,3,Medium,Average,0,Premium Highly-Rated
+When I'm Gone,Â£51.96,Three,in stock,when-im-gone_95/index.html,51.96,3,High,Average,0,Premium Highly-Rated
+Ways of Seeing,Â£39.51,Five,in stock,ways-of-seeing_94/index.html,39.51,5,Medium,Highly Rated,0,Premium Highly-Rated
+"Vampire Knight, Vol. 1 (Vampire Knight #1)",Â£15.40,One,in stock,vampire-knight-vol-1-vampire-knight-1_93/index.html,15.4,1,Low,Low Rated,2,Budget Low-Rated
+Vampire Girl (Vampire Girl #1),Â£53.82,Two,in stock,vampire-girl-vampire-girl-1_92/index.html,53.82,2,High,Low Rated,1,Premium Low-Rated
+Twenty Love Poems and a Song of Despair,Â£30.95,Four,in stock,twenty-love-poems-and-a-song-of-despair_91/index.html,30.95,4,Medium,Highly Rated,3,Budget Highly-Rated
+Travels with Charley: In Search of America,Â£57.82,Five,in stock,travels-with-charley-in-search-of-america_90/index.html,57.82,5,High,Highly Rated,0,Premium Highly-Rated
+Three Wishes (River of Time: California #1),Â£44.18,Two,in stock,three-wishes-river-of-time-california-1_89/index.html,44.18,2,High,Low Rated,1,Premium Low-Rated
+This One Moment (Pushing Limits #1),Â£48.71,One,in stock,this-one-moment-pushing-limits-1_88/index.html,48.71,1,High,Low Rated,1,Premium Low-Rated
+The Zombie Room,Â£19.69,Five,in stock,the-zombie-room_87/index.html,19.69,5,Low,Highly Rated,3,Budget Highly-Rated
+"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",Â£36.52,Two,in stock,the-wicked-the-divine-vol-1-the-faust-act-the-wicked-the-divine_86/index.html,36.52,2,Medium,Low Rated,1,Premium Low-Rated
+The Tumor,Â£41.56,Five,in stock,the-tumor_85/index.html,41.56,5,High,Highly Rated,0,Premium Highly-Rated
+The Story of Hong Gildong,Â£43.19,Four,in stock,the-story-of-hong-gildong_84/index.html,43.19,4,High,Highly Rated,0,Premium Highly-Rated
+The Silent Wife,Â£12.34,Five,in stock,the-silent-wife_83/index.html,12.34,5,Low,Highly Rated,3,Budget Highly-Rated
+The Silent Twin (Detective Jennifer Knight #3),Â£36.25,Three,in stock,the-silent-twin-detective-jennifer-knight-3_82/index.html,36.25,3,Medium,Average,0,Premium Highly-Rated
+The Selfish Gene,Â£29.45,One,in stock,the-selfish-gene_81/index.html,29.45,1,Medium,Low Rated,2,Budget Low-Rated
+The Secret Healer,Â£34.56,Three,in stock,the-secret-healer_80/index.html,34.56,3,Medium,Average,3,Budget Highly-Rated
+"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",Â£54.12,Three,in stock,the-sandman-vol-1-preludes-and-nocturnes-the-sandman-volumes-1_79/index.html,54.12,3,High,Average,0,Premium Highly-Rated
+The Republic,Â£33.78,Three,in stock,the-republic_78/index.html,33.78,3,Medium,Average,3,Budget Highly-Rated
+The Odyssey,Â£29.64,Three,in stock,the-odyssey_77/index.html,29.64,3,Medium,Average,3,Budget Highly-Rated
+The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),Â£57.70,Four,in stock,the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html,57.7,4,High,Highly Rated,0,Premium Highly-Rated
+The Nicomachean Ethics,Â£36.34,One,in stock,the-nicomachean-ethics_75/index.html,36.34,1,Medium,Low Rated,1,Premium Low-Rated
+The Name of the Wind (The Kingkiller Chronicle #1),Â£50.59,Three,in stock,the-name-of-the-wind-the-kingkiller-chronicle-1_74/index.html,50.59,3,High,Average,0,Premium Highly-Rated
+The Mirror & the Maze (The Wrath and the Dawn #1.5),Â£29.38,One,in stock,the-mirror-the-maze-the-wrath-and-the-dawn-15_73/index.html,29.38,1,Medium,Low Rated,2,Budget Low-Rated
+The Little Prince,Â£45.42,Two,in stock,the-little-prince_72/index.html,45.42,2,High,Low Rated,1,Premium Low-Rated
+The Light of the Fireflies,Â£54.43,One,in stock,the-light-of-the-fireflies_71/index.html,54.43,1,High,Low Rated,1,Premium Low-Rated
+The Last Girl (The Dominion Trilogy #1),Â£36.26,Two,in stock,the-last-girl-the-dominion-trilogy-1_70/index.html,36.26,2,Medium,Low Rated,1,Premium Low-Rated
+The Iliad,Â£16.16,One,in stock,the-iliad_69/index.html,16.16,1,Low,Low Rated,2,Budget Low-Rated
+The Hook Up (Game On #1),Â£36.29,Five,in stock,the-hook-up-game-on-1_68/index.html,36.29,5,Medium,Highly Rated,0,Premium Highly-Rated
+The Haters,Â£27.89,Five,in stock,the-haters_67/index.html,27.89,5,Medium,Highly Rated,3,Budget Highly-Rated
+The Girl You Lost,Â£12.29,Five,in stock,the-girl-you-lost_66/index.html,12.29,5,Low,Highly Rated,3,Budget Highly-Rated
+The Girl In The Ice (DCI Erika Foster #1),Â£15.85,Three,in stock,the-girl-in-the-ice-dci-erika-foster-1_65/index.html,15.85,3,Low,Average,3,Budget Highly-Rated
+The End of the Jesus Era (An Investigation #1),Â£14.40,One,in stock,the-end-of-the-jesus-era-an-investigation-1_64/index.html,14.4,1,Low,Low Rated,2,Budget Low-Rated
+The Edge of Reason (Bridget Jones #2),Â£19.18,Four,in stock,the-edge-of-reason-bridget-jones-2_63/index.html,19.18,4,Low,Highly Rated,3,Budget Highly-Rated
+The Complete Maus (Maus #1-2),Â£10.64,Three,in stock,the-complete-maus-maus-1-2_62/index.html,10.64,3,Low,Average,3,Budget Highly-Rated
+The Communist Manifesto,Â£14.76,Three,in stock,the-communist-manifesto_61/index.html,14.76,3,Low,Average,3,Budget Highly-Rated
+The Bhagavad Gita,Â£57.49,Three,in stock,the-bhagavad-gita_60/index.html,57.49,3,High,Average,0,Premium Highly-Rated
+The Bette Davis Club,Â£30.66,Three,in stock,the-bette-davis-club_59/index.html,30.66,3,Medium,Average,3,Budget Highly-Rated
+The Art of Not Breathing,Â£40.83,Four,in stock,the-art-of-not-breathing_58/index.html,40.83,4,High,Highly Rated,0,Premium Highly-Rated
+Taking Shots (Assassins #1),Â£18.88,Two,in stock,taking-shots-assassins-1_57/index.html,18.88,2,Low,Low Rated,2,Budget Low-Rated
+Starlark,Â£25.83,Three,in stock,starlark_56/index.html,25.83,3,Medium,Average,3,Budget Highly-Rated
+"Skip Beat!, Vol. 01 (Skip Beat! #1)",Â£42.12,Three,in stock,skip-beat-vol-01-skip-beat-1_55/index.html,42.12,3,High,Average,0,Premium Highly-Rated
+Sister Sable (The Mad Queen #1),Â£13.33,Three,in stock,sister-sable-the-mad-queen-1_54/index.html,13.33,3,Low,Average,3,Budget Highly-Rated
+Shatter Me (Shatter Me #1),Â£42.40,One,in stock,shatter-me-shatter-me-1_53/index.html,42.4,1,High,Low Rated,1,Premium Low-Rated
+Shameless,Â£58.35,Three,in stock,shameless_52/index.html,58.35,3,High,Average,0,Premium Highly-Rated
+Shadow Rites (Jane Yellowrock #10),Â£21.72,Four,in stock,shadow-rites-jane-yellowrock-10_51/index.html,21.72,4,Medium,Highly Rated,3,Budget Highly-Rated
+Settling the Score (The Summer Games #1),Â£44.91,Two,in stock,settling-the-score-the-summer-games-1_50/index.html,44.91,2,High,Low Rated,1,Premium Low-Rated
+Sense and Sensibility,Â£37.46,One,in stock,sense-and-sensibility_49/index.html,37.46,1,Medium,Low Rated,1,Premium Low-Rated
+"Saga, Volume 1 (Saga (Collected Editions) #1)",Â£28.48,One,in stock,saga-volume-1-saga-collected-editions-1_48/index.html,28.48,1,Medium,Low Rated,2,Budget Low-Rated
+"Rhythm, Chord & Malykhin",Â£28.34,Two,in stock,rhythm-chord-malykhin_47/index.html,28.34,2,Medium,Low Rated,2,Budget Low-Rated
+"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",Â£46.96,Five,in stock,rat-queens-vol-1-sass-sorcery-rat-queens-collected-editions-1-5_46/index.html,46.96,5,High,Highly Rated,0,Premium Highly-Rated
+Paradise Lost (Paradise #1),Â£24.96,One,in stock,paradise-lost-paradise-1_45/index.html,24.96,1,Medium,Low Rated,2,Budget Low-Rated
+"Paper Girls, Vol. 1 (Paper Girls #1-5)",Â£21.71,Four,in stock,paper-girls-vol-1-paper-girls-1-5_44/index.html,21.71,4,Medium,Highly Rated,3,Budget Highly-Rated
+"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",Â£29.87,Three,in stock,ouran-high-school-host-club-vol-1-ouran-high-school-host-club-1_43/index.html,29.87,3,Medium,Average,3,Budget Highly-Rated
+Origins (Alphas 0.5),Â£28.99,One,in stock,origins-alphas-05_42/index.html,28.99,1,Medium,Low Rated,2,Budget Low-Rated
+One Second (Seven #7),Â£52.94,Two,in stock,one-second-seven-7_41/index.html,52.94,2,High,Low Rated,1,Premium Low-Rated
+On the Road (Duluoz Legend),Â£32.36,Three,in stock,on-the-road-duluoz-legend_40/index.html,32.36,3,Medium,Average,3,Budget Highly-Rated
+Old Records Never Die: One Man's Quest for His Vinyl and His Past,Â£55.66,Two,in stock,old-records-never-die-one-mans-quest-for-his-vinyl-and-his-past_39/index.html,55.66,2,High,Low Rated,1,Premium Low-Rated
+Off Sides (Off #1),Â£39.45,Five,in stock,off-sides-off-1_38/index.html,39.45,5,Medium,Highly Rated,0,Premium Highly-Rated
+Of Mice and Men,Â£47.11,Two,in stock,of-mice-and-men_37/index.html,47.11,2,High,Low Rated,1,Premium Low-Rated
+Myriad (Prentor #1),Â£58.75,Four,in stock,myriad-prentor-1_36/index.html,58.75,4,High,Highly Rated,0,Premium Highly-Rated
+My Perfect Mistake (Over the Top #1),Â£38.92,Two,in stock,my-perfect-mistake-over-the-top-1_35/index.html,38.92,2,Medium,Low Rated,1,Premium Low-Rated
+"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",Â£39.39,Four,in stock,ms-marvel-vol-1-no-normal-ms-marvel-2014-2015-1_34/index.html,39.39,4,Medium,Highly Rated,0,Premium Highly-Rated
+Meditations,Â£25.89,Two,in stock,meditations_33/index.html,25.89,2,Medium,Low Rated,2,Budget Low-Rated
+Matilda,Â£28.34,One,in stock,matilda_32/index.html,28.34,1,Medium,Low Rated,2,Budget Low-Rated
+Lost Among the Living,Â£27.70,Four,in stock,lost-among-the-living_31/index.html,27.7,4,Medium,Highly Rated,3,Budget Highly-Rated
+Lord of the Flies,Â£24.89,Three,in stock,lord-of-the-flies_30/index.html,24.89,3,Medium,Average,3,Budget Highly-Rated
+Listen to Me (Fusion #1),Â£58.99,Three,in stock,listen-to-me-fusion-1_29/index.html,58.99,3,High,Average,0,Premium Highly-Rated
+Kitchens of the Great Midwest,Â£57.20,Five,in stock,kitchens-of-the-great-midwest_28/index.html,57.2,5,High,Highly Rated,0,Premium Highly-Rated
+Jane Eyre,Â£38.43,Five,in stock,jane-eyre_27/index.html,38.43,5,Medium,Highly Rated,0,Premium Highly-Rated
+Imperfect Harmony,Â£34.74,Four,in stock,imperfect-harmony_26/index.html,34.74,4,Medium,Highly Rated,0,Premium Highly-Rated
+Icing (Aces Hockey #2),Â£40.44,Four,in stock,icing-aces-hockey-2_25/index.html,40.44,4,High,Highly Rated,0,Premium Highly-Rated
+"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",Â£45.24,Three,in stock,hawkeye-vol-1-my-life-as-a-weapon-hawkeye-1_24/index.html,45.24,3,High,Average,0,Premium Highly-Rated
+Having the Barbarian's Baby (Ice Planet Barbarians #7.5),Â£34.96,Four,in stock,having-the-barbarians-baby-ice-planet-barbarians-75_23/index.html,34.96,4,Medium,Highly Rated,0,Premium Highly-Rated
+"Giant Days, Vol. 1 (Giant Days #1-4)",Â£56.76,Four,in stock,giant-days-vol-1-giant-days-1-4_22/index.html,56.76,4,High,Highly Rated,0,Premium Highly-Rated
+"Fruits Basket, Vol. 1 (Fruits Basket #1)",Â£40.28,Five,in stock,fruits-basket-vol-1-fruits-basket-1_21/index.html,40.28,5,High,Highly Rated,0,Premium Highly-Rated
+Frankenstein,Â£38.00,Two,in stock,frankenstein_20/index.html,38.0,2,Medium,Low Rated,1,Premium Low-Rated
+Forever Rockers (The Rocker #12),Â£28.80,Three,in stock,forever-rockers-the-rocker-12_19/index.html,28.8,3,Medium,Average,3,Budget Highly-Rated
+Fighting Fate (Fighting #6),Â£39.24,Three,in stock,fighting-fate-fighting-6_18/index.html,39.24,3,Medium,Average,0,Premium Highly-Rated
+Emma,Â£32.93,Two,in stock,emma_17/index.html,32.93,2,Medium,Low Rated,2,Budget Low-Rated
+"Eat, Pray, Love",Â£51.32,Three,in stock,eat-pray-love_16/index.html,51.32,3,High,Average,0,Premium Highly-Rated
+Deep Under (Walker Security #1),Â£47.09,Five,in stock,deep-under-walker-security-1_15/index.html,47.09,5,High,Highly Rated,0,Premium Highly-Rated
+Choosing Our Religion: The Spiritual Lives of America's Nones,Â£28.42,Four,in stock,choosing-our-religion-the-spiritual-lives-of-americas-nones_14/index.html,28.42,4,Medium,Highly Rated,3,Budget Highly-Rated
+Charlie and the Chocolate Factory (Charlie Bucket #1),Â£22.85,Three,in stock,charlie-and-the-chocolate-factory-charlie-bucket-1_13/index.html,22.85,3,Medium,Average,3,Budget Highly-Rated
+Charity's Cross (Charles Towne Belles #4),Â£41.24,One,in stock,charitys-cross-charles-towne-belles-4_12/index.html,41.24,1,High,Low Rated,1,Premium Low-Rated
+Bright Lines,Â£39.07,Five,in stock,bright-lines_11/index.html,39.07,5,Medium,Highly Rated,0,Premium Highly-Rated
+Bridget Jones's Diary (Bridget Jones #1),Â£29.82,One,in stock,bridget-joness-diary-bridget-jones-1_10/index.html,29.82,1,Medium,Low Rated,2,Budget Low-Rated
+Bounty (Colorado Mountain #7),Â£37.26,Four,in stock,bounty-colorado-mountain-7_9/index.html,37.26,4,Medium,Highly Rated,0,Premium Highly-Rated
+Blood Defense (Samantha Brinkman #1),Â£20.30,Three,in stock,blood-defense-samantha-brinkman-1_8/index.html,20.3,3,Medium,Average,3,Budget Highly-Rated
+"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",Â£34.65,Five,in stock,bleach-vol-1-strawberry-and-the-soul-reapers-bleach-1_7/index.html,34.65,5,Medium,Highly Rated,0,Premium Highly-Rated
+Beyond Good and Evil,Â£43.38,One,in stock,beyond-good-and-evil_6/index.html,43.38,1,High,Low Rated,1,Premium Low-Rated
+Alice in Wonderland (Alice's Adventures in Wonderland #1),Â£55.53,One,in stock,alice-in-wonderland-alices-adventures-in-wonderland-1_5/index.html,55.53,1,High,Low Rated,1,Premium Low-Rated
+"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",Â£57.06,Four,in stock,ajin-demi-human-volume-1-ajin-demi-human-1_4/index.html,57.06,4,High,Highly Rated,0,Premium Highly-Rated
+A Spy's Devotion (The Regency Spies of London #1),Â£16.97,Five,in stock,a-spys-devotion-the-regency-spies-of-london-1_3/index.html,16.97,5,Low,Highly Rated,3,Budget Highly-Rated
+1st to Die (Women's Murder Club #1),Â£53.98,One,in stock,1st-to-die-womens-murder-club-1_2/index.html,53.98,1,High,Low Rated,1,Premium Low-Rated
+"1,000 Places to See Before You Die",Â£26.08,Five,in stock,1000-places-to-see-before-you-die_1/index.html,26.08,5,Medium,Highly Rated,3,Budget Highly-Rated
