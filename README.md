@@ -50,49 +50,13 @@ Business Intelligence & Visualization: Power BI, DAX, Power Query
 
 Version Control: Git, GitHub
 
-📈 Dashboard Preview & Highlights
-Include a screenshot or GIF of your Power BI Dashboard here!
-
-Example path: ![Dashboard Snapshot](assets/dashboard_preview.png)
-
 KPI Summary Cards: Quick view of total records, key metrics, and predicted outcomes.
 
 Trend Analysis: Visual representation of historical patterns vs. predicted forecasts.
 
 Interactive Slicers: Filter insights by date, category, region, or segment.
 
-📁 Repository Structure
-Plaintext
-├── assets/                  # Dashboard screenshots and images
-├── data/
-│   ├── raw/                 # Scraped raw dataset (1,000+ records)
-│   └── processed/           # Cleaned and engineered dataset
-├── notebooks/               # Jupyter Notebooks for Scraping, EDA & Modeling
-│   ├── 01_web_scraper.ipynb
-│   ├── 02_data_cleaning_eda.ipynb
-│   └── 03_predictive_modeling.ipynb
-├── dashboard/               # Power BI Report (.pbix file)
-├── src/                     # Modular Python scripts
-│   ├── scraper.py
-│   ├── data_preprocessing.py
-│   └── model.py
-├── requirements.txt         # Project dependencies
-└── README.md                # Project documentation
-🚀 How to Run This Project
-1. Clone the Repository
-Bash
-git clone [https://github.com/nikhilyedelli/Predictive-Modelling-on-Web-Scraped-Data-with-a-Power-BI-Dashboard-/edit/main)
-cd your-repo-name
-3. Set Up Environment & Install Dependencies
-Bash
-python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
-pip install -r requirements.txt
-4. Run the Web Scraper & Pipeline
-Bash
-python src/scraper.py
-python src/data_preprocessing.py
-python src/model.py
+
 5. Explore the Dashboard
 Open the .pbix file located in the dashboard/ folder using Power BI Desktop to interact with the visual report.
 
