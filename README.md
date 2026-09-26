@@ -81,19 +81,19 @@ Plaintext
 🚀 How to Run This Project
 1. Clone the Repository
 Bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/nikhilyedelli/Predictive-Modelling-on-Web-Scraped-Data-with-a-Power-BI-Dashboard-/edit/main)
 cd your-repo-name
-2. Set Up Environment & Install Dependencies
+3. Set Up Environment & Install Dependencies
 Bash
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
-3. Run the Web Scraper & Pipeline
+4. Run the Web Scraper & Pipeline
 Bash
 python src/scraper.py
 python src/data_preprocessing.py
 python src/model.py
-4. Explore the Dashboard
+5. Explore the Dashboard
 Open the .pbix file located in the dashboard/ folder using Power BI Desktop to interact with the visual report.
 
 💡 Key Business Insights Derived
